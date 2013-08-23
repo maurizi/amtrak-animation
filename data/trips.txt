@@ -1,0 +1,1672 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,shape_id
+66,409714,2100409714,New York Penn Station,2100,0,42
+66,409716,2100409716,New York Penn Station,2100,0,42
+66,409718,2100409718,New York Penn Station,2100,0,42
+66,433850,2103433850,Washington Union Station,2103,1,40
+66,433851,2103433851,Washington Union Station,2103,1,40
+66,433852,2103433852,Washington Union Station,2103,1,40
+66,409713,2103409713,Washington Union Station,2103,1,40
+66,409719,2104409719,New York Penn Station,2104,0,42
+66,409721,2104409721,New York Penn Station,2104,0,42
+66,409723,2104409723,New York Penn Station,2104,0,42
+66,433860,2107433860,Washington Union Station,2107,1,40
+66,433861,2107433861,Washington Union Station,2107,1,40
+66,433862,2107433862,Washington Union Station,2107,1,40
+66,433864,2107433864,Washington Union Station,2107,1,40
+66,433853,2109433853,Washington Union Station,2109,1,40
+66,433855,2109433855,Washington Union Station,2109,1,40
+66,433856,2109433856,Washington Union Station,2109,1,40
+66,433857,2109433857,Washington Union Station,2109,1,40
+66,433859,2109433859,Washington Union Station,2109,1,40
+66,433865,2110433865,New York Penn Station,2110,0,42
+66,433867,2110433867,New York Penn Station,2110,0,42
+66,433869,2110433869,New York Penn Station,2110,0,42
+66,433870,2117433870,Washington Union Station,2117,1,40
+66,433871,2117433871,Washington Union Station,2117,1,40
+66,433872,2117433872,Washington Union Station,2117,1,40
+66,433874,2117433874,Washington Union Station,2117,1,40
+66,433875,2119433875,Washington Union Station,2119,1,40
+66,433876,2119433876,Washington Union Station,2119,1,40
+66,433877,2119433877,Washington Union Station,2119,1,40
+66,409743,2119409743,Washington Union Station,2119,1,40
+66,433878,2121433878,Washington Union Station,2121,1,40
+66,433879,2121433879,Washington Union Station,2121,1,40
+66,433880,2121433880,Washington Union Station,2121,1,40
+66,409748,2121409748,Washington Union Station,2121,1,40
+66,410694,2122410694,New York Penn Station,2122,0,42
+66,410696,2122410696,New York Penn Station,2122,0,42
+66,410698,2122410698,New York Penn Station,2122,0,42
+66,410703,2124410703,New York Penn Station,2124,0,42
+66,410700,2124410700,New York Penn Station,2124,0,42
+66,410702,2124410702,New York Penn Station,2124,0,42
+66,410704,2126410704,New York Penn Station,2126,0,42
+66,410706,2126410706,New York Penn Station,2126,0,42
+66,410708,2126410708,New York Penn Station,2126,0,42
+66,417168,2128417168,New York Penn Station,2128,0,42
+66,417170,2128417170,New York Penn Station,2128,0,42
+66,417171,2128417171,New York Penn Station,2128,0,42
+66,417173,2128417173,New York Penn Station,2128,0,42
+66,417083,2150417083,Boston South Station,2150,0,41
+66,417084,2150417084,Boston South Station,2150,0,41
+66,417085,2150417085,Boston South Station,2150,0,41
+66,417087,2150417087,Boston South Station,2150,0,41
+66,417089,2150417089,Boston South Station,2150,0,41
+66,433886,2151433886,Washington Union Station,2151,1,38
+66,433887,2151433887,Washington Union Station,2151,1,38
+66,433888,2151433888,Washington Union Station,2151,1,38
+66,433890,2151433890,Washington Union Station,2151,1,38
+66,433881,2153433881,Washington Union Station,2153,1,38
+66,433882,2153433882,Washington Union Station,2153,1,38
+66,433883,2153433883,Washington Union Station,2153,1,38
+66,433885,2153433885,Washington Union Station,2153,1,38
+66,409764,2154409764,Boston South Station,2154,0,41
+66,409766,2154409766,Boston South Station,2154,0,41
+66,409768,2154409768,Boston South Station,2154,0,41
+66,433891,2155433891,Washington Union Station,2155,1,38
+66,433892,2155433892,Washington Union Station,2155,1,38
+66,433893,2155433893,Washington Union Station,2155,1,38
+66,409778,2155409778,Washington Union Station,2155,1,38
+66,417104,2158417104,Boston South Station,2158,0,41
+66,417105,2158417105,Boston South Station,2158,0,41
+66,417106,2158417106,Boston South Station,2158,0,41
+66,417108,2158417108,Boston South Station,2158,0,41
+66,417110,2158417110,Boston South Station,2158,0,41
+66,433894,2159433894,Washington Union Station,2159,1,38
+66,433895,2159433895,Washington Union Station,2159,1,38
+66,433896,2159433896,Washington Union Station,2159,1,38
+66,433898,2159433898,Washington Union Station,2159,1,38
+66,417122,2160417122,Boston South Station,2160,0,41
+66,417118,2160417118,Boston South Station,2160,0,41
+66,417119,2160417119,Boston South Station,2160,0,41
+66,417121,2160417121,Boston South Station,2160,0,41
+66,417124,2160417124,Boston South Station,2160,0,41
+66,433899,2163433899,Washington Union Station,2163,1,38
+66,433900,2163433900,Washington Union Station,2163,1,38
+66,433901,2163433901,Washington Union Station,2163,1,38
+66,433903,2163433903,Washington Union Station,2163,1,38
+66,415553,2164415553,Boston South Station,2164,0,41
+66,415554,2164415554,Boston South Station,2164,0,41
+66,415555,2164415555,Boston South Station,2164,0,41
+66,415557,2164415557,Boston South Station,2164,0,41
+66,415559,2164415559,Boston South Station,2164,0,41
+66,433904,2165433904,Washington Union Station,2165,1,38
+66,433905,2165433905,Washington Union Station,2165,1,38
+66,433906,2165433906,Washington Union Station,2165,1,38
+66,433908,2165433908,Washington Union Station,2165,1,38
+66,417139,2166417139,Boston South Station,2166,0,41
+66,417140,2166417140,Boston South Station,2166,0,41
+66,417141,2166417141,Boston South Station,2166,0,41
+66,415564,2166415564,Boston South Station,2166,0,41
+66,415566,2166415566,Boston South Station,2166,0,41
+66,433909,2167433909,Washington Union Station,2167,1,38
+66,433910,2167433910,Washington Union Station,2167,1,38
+66,433911,2167433911,Washington Union Station,2167,1,38
+66,409803,2167409803,Washington Union Station,2167,1,38
+66,417145,2168417145,Boston South Station,2168,0,41
+66,417146,2168417146,Boston South Station,2168,0,41
+66,417147,2168417147,Boston South Station,2168,0,41
+66,415578,2168415578,Boston South Station,2168,0,41
+66,415580,2168415580,Boston South Station,2168,0,41
+66,417787,2170417787,Boston South Station,2170,0,41
+66,417780,2170417780,Boston South Station,2170,0,41
+66,417781,2170417781,Boston South Station,2170,0,41
+66,417782,2170417782,Boston South Station,2170,0,41
+66,417784,2170417784,Boston South Station,2170,0,41
+66,417786,2170417786,Boston South Station,2170,0,41
+66,433912,2171433912,Washington Union Station,2171,1,38
+66,433913,2171433913,Washington Union Station,2171,1,38
+66,433914,2171433914,Washington Union Station,2171,1,38
+66,433916,2171433916,Washington Union Station,2171,1,38
+66,415590,2172415590,Boston South Station,2172,0,41
+66,415588,2172415588,Boston South Station,2172,0,41
+66,415589,2172415589,Boston South Station,2172,0,41
+66,415592,2172415592,Boston South Station,2172,0,41
+66,415594,2172415594,Boston South Station,2172,0,41
+66,433917,2173433917,Washington Union Station,2173,1,38
+66,433918,2173433918,Washington Union Station,2173,1,38
+66,433919,2173433919,Washington Union Station,2173,1,38
+66,433921,2173433921,Washington Union Station,2173,1,38
+66,417161,2175417161,Washington Union Station,2175,1,38
+66,417162,2175417162,Washington Union Station,2175,1,38
+66,417164,2175417164,Washington Union Station,2175,1,38
+66,417165,2175417165,Washington Union Station,2175,1,38
+66,417167,2175417167,Washington Union Station,2175,1,38
+66,409814,2190409814,Boston South Station,2190,0,39
+66,409816,2190409816,Boston South Station,2190,0,39
+66,409818,2190409818,Boston South Station,2190,0,39
+66,435903,2203435903,Washington Union Station,2203,1,40
+66,435904,2203435904,Washington Union Station,2203,1,40
+66,435905,2203435905,Washington Union Station,2203,1,40
+66,433925,2203433925,Washington Union Station,2203,1,40
+66,433931,2205433931,Washington Union Station,2205,1,40
+66,433926,2205433926,Washington Union Station,2205,1,40
+66,433927,2205433927,Washington Union Station,2205,1,40
+66,433929,2205433929,Washington Union Station,2205,1,40
+66,433930,2205433930,Washington Union Station,2205,1,40
+66,435906,2207435906,Washington Union Station,2207,1,40
+66,435907,2207435907,Washington Union Station,2207,1,40
+66,435908,2207435908,Washington Union Station,2207,1,40
+66,433935,2207433935,Washington Union Station,2207,1,40
+66,416351,2208416351,New York Penn Station,2208,0,42
+66,416354,2208416354,New York Penn Station,2208,0,42
+66,416355,2208416355,New York Penn Station,2208,0,42
+66,416357,2208416357,New York Penn Station,2208,0,42
+66,416358,2208416358,New York Penn Station,2208,0,42
+66,433936,2211433936,Washington Union Station,2211,1,40
+66,433937,2211433937,Washington Union Station,2211,1,40
+66,433938,2211433938,Washington Union Station,2211,1,40
+66,433940,2211433940,Washington Union Station,2211,1,40
+66,433941,2211433941,Washington Union Station,2211,1,40
+66,410734,2212410734,New York Penn Station,2212,0,42
+66,394391,2212394391,New York Penn Station,2212,0,42
+66,410735,2212410735,New York Penn Station,2212,0,42
+66,433942,2213433942,Washington Union Station,2213,1,40
+66,433943,2213433943,Washington Union Station,2213,1,40
+66,433944,2213433944,Washington Union Station,2213,1,40
+66,433946,2213433946,Washington Union Station,2213,1,40
+66,433947,2213433947,Washington Union Station,2213,1,40
+66,410736,2216410736,New York Penn Station,2216,0,42
+66,394402,2216394402,New York Penn Station,2216,0,42
+66,410737,2216410737,New York Penn Station,2216,0,42
+66,410739,2220410739,New York Penn Station,2220,0,42
+66,394413,2220394413,New York Penn Station,2220,0,42
+66,410738,2220410738,New York Penn Station,2220,0,42
+66,433948,2221433948,Washington Union Station,2221,1,40
+66,433949,2221433949,Washington Union Station,2221,1,40
+66,433950,2221433950,Washington Union Station,2221,1,40
+66,433952,2221433952,Washington Union Station,2221,1,40
+66,433953,2221433953,Washington Union Station,2221,1,40
+66,410740,2222410740,New York Penn Station,2222,0,42
+66,410742,2222410742,New York Penn Station,2222,0,42
+66,410743,2222410743,New York Penn Station,2222,0,42
+66,410745,2222410745,New York Penn Station,2222,0,42
+66,410746,2222410746,New York Penn Station,2222,0,42
+66,433954,2225433954,Washington Union Station,2225,1,40
+66,433955,2225433955,Washington Union Station,2225,1,40
+66,433956,2225433956,Washington Union Station,2225,1,40
+66,433958,2225433958,Washington Union Station,2225,1,40
+66,433959,2225433959,Washington Union Station,2225,1,40
+66,410747,2228410747,New York Penn Station,2228,0,42
+66,410749,2228410749,New York Penn Station,2228,0,42
+66,410750,2228410750,New York Penn Station,2228,0,42
+66,410752,2228410752,New York Penn Station,2228,0,42
+66,410753,2228410753,New York Penn Station,2228,0,42
+66,441446,2250441446,Boston South Station,2250,0,41
+66,441447,2250441447,Boston South Station,2250,0,41
+66,441448,2250441448,Boston South Station,2250,0,41
+66,441449,2250441449,Boston South Station,2250,0,41
+66,435914,2251435914,Washington Union Station,2251,1,38
+66,435915,2251435915,Washington Union Station,2251,1,38
+66,435916,2251435916,Washington Union Station,2251,1,38
+66,433968,2251433968,Washington Union Station,2251,1,38
+66,416370,2252416370,Boston South Station,2252,0,41
+66,416373,2252416373,Boston South Station,2252,0,41
+66,416374,2252416374,Boston South Station,2252,0,41
+66,416376,2252416376,Boston South Station,2252,0,41
+66,416377,2252416377,Boston South Station,2252,0,41
+66,435917,2253435917,Washington Union Station,2253,1,38
+66,435918,2253435918,Washington Union Station,2253,1,38
+66,435919,2253435919,Washington Union Station,2253,1,38
+66,433257,2253433257,Washington Union Station,2253,1,38
+66,416378,2254416378,Boston South Station,2254,0,41
+66,416379,2254416379,Boston South Station,2254,0,41
+66,416381,2254416381,Boston South Station,2254,0,41
+66,416382,2254416382,Boston South Station,2254,0,41
+66,416384,2254416384,Boston South Station,2254,0,41
+66,416385,2254416385,Boston South Station,2254,0,41
+66,433972,2255433972,Washington Union Station,2255,1,38
+66,433973,2255433973,Washington Union Station,2255,1,38
+66,433974,2255433974,Washington Union Station,2255,1,38
+66,433976,2255433976,Washington Union Station,2255,1,38
+66,433977,2255433977,Washington Union Station,2255,1,38
+66,416405,2256416405,Boston South Station,2256,0,41
+66,416406,2256416406,Boston South Station,2256,0,41
+66,416408,2256416408,Boston South Station,2256,0,41
+66,416409,2256416409,Boston South Station,2256,0,41
+66,416411,2256416411,Boston South Station,2256,0,41
+66,416412,2256416412,Boston South Station,2256,0,41
+66,433978,2257433978,Washington Union Station,2257,1,38
+66,433979,2257433979,Washington Union Station,2257,1,38
+66,433980,2257433980,Washington Union Station,2257,1,38
+66,433982,2257433982,Washington Union Station,2257,1,38
+66,433983,2257433983,Washington Union Station,2257,1,38
+66,416413,2258416413,Boston South Station,2258,0,41
+66,416414,2258416414,Boston South Station,2258,0,41
+66,416416,2258416416,Boston South Station,2258,0,41
+66,416417,2258416417,Boston South Station,2258,0,41
+66,416419,2258416419,Boston South Station,2258,0,41
+66,416420,2258416420,Boston South Station,2258,0,41
+66,433984,2259433984,Washington Union Station,2259,1,38
+66,433985,2259433985,Washington Union Station,2259,1,38
+66,433986,2259433986,Washington Union Station,2259,1,38
+66,433988,2259433988,Washington Union Station,2259,1,38
+66,433989,2259433989,Washington Union Station,2259,1,38
+66,415617,2290415617,Boston South Station,2290,0,39
+66,415619,2290415619,Boston South Station,2290,0,39
+66,415620,2290415620,Boston South Station,2290,0,39
+66,415621,2290415621,Boston South Station,2290,0,39
+66,415624,2297415624,New York Penn Station,2297,1,36
+66,415625,2297415625,New York Penn Station,2297,1,36
+66,415626,2297415626,New York Penn Station,2297,1,36
+66,415628,2297415628,New York Penn Station,2297,1,36
+66,415629,2297415629,New York Penn Station,2297,1,36
+95,433379,68433379,New York Penn Station,68,1,3
+95,433380,68433380,New York Penn Station,68,1,3
+95,433381,68433381,New York Penn Station,68,1,3
+95,433382,68433382,New York Penn Station,68,1,3
+95,433383,68433383,New York Penn Station,68,1,3
+95,433384,68433384,New York Penn Station,68,1,3
+95,433385,68433385,New York Penn Station,68,1,3
+95,432180,69432180,Montreal Central Station,69,0,4
+95,432181,69432181,Montreal Central Station,69,0,4
+95,428323,69428323,Montreal Central Station,69,0,4
+95,428324,69428324,Montreal Central Station,69,0,4
+77,423670,52423670,Lorton Auto Train Station,52,0,6
+77,423672,52423672,Lorton Auto Train Station,52,0,6
+77,423675,53423675,Sanford Auto Train Station,53,1,5
+77,423674,53423674,Sanford Auto Train Station,53,1,5
+71,425003,364425003,Port Huron Amtrak,364,1,50
+71,425004,364425004,Port Huron Amtrak,364,1,50
+71,425005,365425005,Chicago Union Station,365,0,51
+71,425006,365425006,Chicago Union Station,365,0,51
+96,437724,5437724,Emeryville Amtrak,5,0,54
+96,437725,6437725,Chicago Union Station,6,1,55
+84,406033,520406033,Sacramento Amtrak,520,0,59
+84,406035,520406035,Sacramento Amtrak,520,0,59
+84,406114,521406114,San Jose Diridon Station,521,1,62
+84,406116,521406116,San Jose Diridon Station,521,1,62
+84,406036,522406036,Sacramento Amtrak,522,0,59
+84,406038,522406038,Sacramento Amtrak,522,0,59
+84,406117,523406117,San Jose Diridon Station,523,1,62
+84,406119,523406119,San Jose Diridon Station,523,1,62
+84,406039,524406039,Sacramento Amtrak,524,0,64
+84,406041,524406041,Sacramento Amtrak,524,0,64
+84,406123,525406123,Oakland Coliseum Station,525,1,60
+84,406125,525406125,Oakland Coliseum Station,525,1,60
+84,406042,526406042,Sacramento Amtrak,526,0,57
+84,406044,526406044,Sacramento Amtrak,526,0,57
+84,406045,527406045,San Jose Diridon Station,527,1,62
+84,406047,527406047,San Jose Diridon Station,527,1,62
+84,406120,528406120,Sacramento Amtrak,528,0,64
+84,406122,528406122,Sacramento Amtrak,528,0,64
+84,406048,529406048,Oakland Coliseum Station,529,1,56
+84,406050,529406050,Oakland Coliseum Station,529,1,56
+84,406051,530406051,Sacramento Amtrak,530,0,59
+84,406053,530406053,Sacramento Amtrak,530,0,59
+84,406126,531406126,Oakland Coliseum Station,531,1,60
+84,406128,531406128,Oakland Coliseum Station,531,1,60
+84,406054,532406054,Sacramento Amtrak,532,0,64
+84,406056,532406056,Sacramento Amtrak,532,0,64
+84,406129,533406129,Oakland Coliseum Station,533,1,60
+84,406131,533406131,Oakland Coliseum Station,533,1,60
+84,406057,534406057,Sacramento Amtrak,534,0,59
+84,406059,534406059,Sacramento Amtrak,534,0,59
+84,406132,535406132,San Jose Diridon Station,535,1,62
+84,406134,535406134,San Jose Diridon Station,535,1,62
+84,406060,536406060,Auburn Amtrak,536,0,58
+84,406062,536406062,Auburn Amtrak,536,0,58
+84,406135,537406135,San Jose Diridon Station,537,1,62
+84,406137,537406137,San Jose Diridon Station,537,1,62
+84,406063,538406063,Sacramento Amtrak,538,0,64
+84,406065,538406065,Sacramento Amtrak,538,0,64
+84,406066,540406066,Sacramento Amtrak,540,0,59
+84,406068,540406068,Sacramento Amtrak,540,0,59
+84,406069,541406069,Oakland Jack London Square Station,541,1,61
+84,406071,541406071,Oakland Jack London Square Station,541,1,61
+84,406072,542406072,Sacramento Amtrak,542,0,64
+84,406074,542406074,Sacramento Amtrak,542,0,64
+84,406138,543406138,San Jose Diridon Station,543,1,62
+84,406140,543406140,San Jose Diridon Station,543,1,62
+84,406075,544406075,Sacramento Amtrak,544,0,64
+84,406077,544406077,Sacramento Amtrak,544,0,64
+84,406141,545406141,Oakland Jack London Square Station,545,1,61
+84,406143,545406143,Oakland Jack London Square Station,545,1,61
+84,406078,546406078,Sacramento Amtrak,546,0,64
+84,406080,546406080,Sacramento Amtrak,546,0,64
+84,406081,547406081,San Jose Diridon Station,547,1,62
+84,406083,547406083,San Jose Diridon Station,547,1,62
+84,406084,548406084,Sacramento Amtrak,548,0,59
+84,406086,548406086,Sacramento Amtrak,548,0,59
+84,406144,549406144,Oakland Jack London Square Station,549,1,61
+84,406146,549406146,Oakland Jack London Square Station,549,1,61
+84,406087,551406087,Oakland Jack London Square Station,551,1,61
+84,406089,551406089,Oakland Jack London Square Station,551,1,61
+84,406147,720406147,Sacramento Amtrak,720,0,59
+84,406148,720406148,Sacramento Amtrak,720,0,59
+84,406149,723406149,San Jose Diridon Station,723,1,62
+84,406150,723406150,San Jose Diridon Station,723,1,62
+84,406090,724406090,Sacramento Amtrak,724,0,64
+84,395115,724395115,Sacramento Amtrak,724,0,64
+84,406091,724406091,Sacramento Amtrak,724,0,64
+84,406151,727406151,San Jose Diridon Station,727,1,62
+84,406152,727406152,San Jose Diridon Station,727,1,62
+84,406092,728406092,Sacramento Amtrak,728,0,64
+84,395118,728395118,Sacramento Amtrak,728,0,64
+84,406093,728406093,Sacramento Amtrak,728,0,64
+84,406153,729406153,Oakland Coliseum Station,729,1,56
+84,406154,729406154,Oakland Coliseum Station,729,1,56
+84,406094,732406094,Sacramento Amtrak,732,0,59
+84,406095,732406095,Sacramento Amtrak,732,0,59
+84,406155,733406155,San Jose Diridon Station,733,1,62
+84,406156,733406156,San Jose Diridon Station,733,1,62
+84,406096,734406096,Sacramento Amtrak,734,0,64
+84,395124,734395124,Sacramento Amtrak,734,0,64
+84,406097,734406097,Sacramento Amtrak,734,0,64
+84,406157,736406157,Sacramento Amtrak,736,0,64
+84,395213,736395213,Sacramento Amtrak,736,0,64
+84,406158,736406158,Sacramento Amtrak,736,0,64
+84,406159,737406159,San Jose Diridon Station,737,1,62
+84,406160,737406160,San Jose Diridon Station,737,1,62
+84,406098,738406098,Sacramento Amtrak,738,0,59
+84,406099,738406099,Sacramento Amtrak,738,0,59
+84,406100,741406100,San Jose Diridon Station,741,1,62
+84,406101,741406101,San Jose Diridon Station,741,1,62
+84,406102,742406102,Auburn Amtrak,742,0,63
+84,395133,742395133,Auburn Amtrak,742,0,63
+84,406103,742406103,Auburn Amtrak,742,0,63
+84,406104,743406104,San Jose Diridon Station,743,1,62
+84,406105,743406105,San Jose Diridon Station,743,1,62
+84,406106,744406106,Sacramento Amtrak,744,0,64
+84,395139,744395139,Sacramento Amtrak,744,0,64
+84,406107,744406107,Sacramento Amtrak,744,0,64
+84,406108,745406108,Oakland Jack London Square Station,745,1,61
+84,406109,745406109,Oakland Jack London Square Station,745,1,61
+84,406110,746406110,Sacramento Amtrak,746,0,59
+84,406111,746406111,Sacramento Amtrak,746,0,59
+84,406112,747406112,San Jose Diridon Station,747,1,62
+84,406113,747406113,San Jose Diridon Station,747,1,62
+84,406161,748406161,Sacramento Amtrak,748,0,64
+84,395219,748395219,Sacramento Amtrak,748,0,64
+84,406162,748406162,Sacramento Amtrak,748,0,64
+84,406165,749406165,Oakland Jack London Square Station,749,1,61
+84,406166,749406166,Oakland Jack London Square Station,749,1,61
+84,406163,751406163,Oakland Jack London Square Station,751,1,61
+84,406164,751406164,Oakland Jack London Square Station,751,1,61
+53,325821,29325821,Chicago Union Station,29,0,66
+53,325822,29325822,Chicago Union Station,29,0,66
+53,393738,30393738,Washington Union Station,30,1,65
+53,393739,30393739,Washington Union Station,30,1,65
+53,393740,30393740,Washington Union Station,30,1,65
+58,432635,50432635,New York Penn Station,50,1,67
+58,432632,50432632,New York Penn Station,50,1,67
+58,432633,50432633,New York Penn Station,50,1,67
+58,432634,50432634,New York Penn Station,50,1,67
+58,402338,51402338,Chicago Union Station,51,0,68
+58,402339,51402339,Chicago Union Station,51,0,68
+58,402340,51402340,Chicago Union Station,51,0,68
+58,402341,51402341,Chicago Union Station,51,0,68
+72,394598,381394598,Quincy Amtrak,381,0,69
+72,394600,381394600,Quincy Amtrak,381,0,69
+72,325846,382325846,Chicago Union Station,382,1,70
+72,325847,382325847,Chicago Union Station,382,1,70
+85,406167,79406167,Charlotte Amtrak,79,1,72
+85,406168,79406168,Charlotte Amtrak,79,1,72
+85,406169,79406169,Charlotte Amtrak,79,1,72
+85,415700,80415700,New York Penn Station,80,0,71
+85,415701,80415701,New York Penn Station,80,0,71
+85,415702,80415702,New York Penn Station,80,0,71
+85,415703,80415703,New York Penn Station,80,0,71
+62,438191,58438191,Chicago Union Station,58,0,74
+62,438192,58438192,Chicago Union Station,58,0,74
+62,438705,59438705,New Orleans Union Passenger Terminal,59,1,73
+62,438706,59438706,New Orleans Union Passenger Terminal,59,1,73
+65,434677,11434677,Los Angeles Union Station,11,1,8
+65,434678,11434678,Los Angeles Union Station,11,1,8
+65,434679,11434679,Los Angeles Union Station,11,1,8
+65,434680,11434680,Los Angeles Union Station,11,1,8
+65,434681,11434681,Los Angeles Union Station,11,1,8
+65,434682,11434682,Los Angeles Union Station,11,1,8
+65,434683,11434683,Los Angeles Union Station,11,1,8
+65,434684,11434684,Los Angeles Union Station,11,1,8
+65,434685,11434685,Los Angeles Union Station,11,1,8
+65,394100,14394100,Seattle King Street Station,14,0,7
+65,394101,14394101,Seattle King Street Station,14,0,7
+89,395837,19395837,New Orleans Union Passenger Terminal,19,1,135
+89,395838,19395838,New Orleans Union Passenger Terminal,19,1,135
+89,395839,19395839,New Orleans Union Passenger Terminal,19,1,135
+89,395840,19395840,New Orleans Union Passenger Terminal,19,1,135
+89,395841,19395841,New Orleans Union Passenger Terminal,19,1,135
+89,395842,19395842,New Orleans Union Passenger Terminal,19,1,135
+89,395843,19395843,New Orleans Union Passenger Terminal,19,1,135
+89,395844,19395844,New Orleans Union Passenger Terminal,19,1,135
+89,395845,19395845,New Orleans Union Passenger Terminal,19,1,135
+89,440434,20440434,New York Penn Station,20,0,134
+89,440435,20440435,New York Penn Station,20,0,134
+89,440436,20440436,New York Penn Station,20,0,134
+61,414491,676414491,Portland Transportation Center,676,1,154
+61,414493,676414493,Portland Transportation Center,676,1,154
+61,414495,676414495,Portland Transportation Center,676,1,154
+61,414496,678414496,Portland Transportation Center,678,1,154
+61,394088,678394088,Portland Transportation Center,678,1,154
+61,414497,678414497,Portland Transportation Center,678,1,154
+61,416340,679416340,Brunswick,679,0,155
+61,416342,679416342,Brunswick,679,0,155
+61,435269,680435269,Boston North Station,680,1,157
+61,435270,680435270,Boston North Station,680,1,157
+61,435271,680435271,Boston North Station,680,1,157
+61,435272,680435272,Boston North Station,680,1,157
+61,435338,681435338,Brunswick,681,0,152
+61,435339,681435339,Brunswick,681,0,152
+61,435341,681435341,Brunswick,681,0,152
+61,435342,681435342,Brunswick,681,0,152
+61,435273,682435273,Boston North Station,682,1,153
+61,435274,682435274,Boston North Station,682,1,153
+61,435276,682435276,Boston North Station,682,1,153
+61,435277,682435277,Boston North Station,682,1,153
+61,435343,683435343,Portland Transportation Center,683,0,156
+61,435344,683435344,Portland Transportation Center,683,0,156
+61,435346,683435346,Portland Transportation Center,683,0,156
+61,435347,683435347,Portland Transportation Center,683,0,156
+61,435278,684435278,Boston North Station,684,1,157
+61,435279,684435279,Boston North Station,684,1,157
+61,435281,684435281,Boston North Station,684,1,157
+61,435282,684435282,Boston North Station,684,1,157
+61,435283,685435283,Brunswick,685,0,152
+61,435284,685435284,Brunswick,685,0,152
+61,435286,685435286,Brunswick,685,0,152
+61,435287,685435287,Brunswick,685,0,152
+61,435288,686435288,Boston North Station,686,1,157
+61,435289,686435289,Boston North Station,686,1,157
+61,435291,686435291,Boston North Station,686,1,157
+61,435292,686435292,Boston North Station,686,1,157
+61,435293,687435293,Portland Transportation Center,687,0,156
+61,435294,687435294,Portland Transportation Center,687,0,156
+61,435296,687435296,Portland Transportation Center,687,0,156
+61,435297,687435297,Portland Transportation Center,687,0,156
+61,435298,688435298,Boston North Station,688,1,153
+61,435299,688435299,Boston North Station,688,1,153
+61,435301,688435301,Boston North Station,688,1,153
+61,435302,688435302,Boston North Station,688,1,153
+61,435303,689435303,Portland Transportation Center,689,0,156
+61,435304,689435304,Portland Transportation Center,689,0,156
+61,435306,689435306,Portland Transportation Center,689,0,156
+61,435307,689435307,Portland Transportation Center,689,0,156
+61,435308,690435308,Boston North Station,690,1,157
+61,435309,690435309,Boston North Station,690,1,157
+61,435310,690435310,Boston North Station,690,1,157
+61,418361,690418361,Boston North Station,690,1,157
+61,435311,690435311,Boston North Station,690,1,157
+61,435312,691435312,Brunswick,691,0,152
+61,435313,691435313,Brunswick,691,0,152
+61,435314,691435314,Brunswick,691,0,152
+61,435315,691435315,Brunswick,691,0,152
+61,435316,691435316,Brunswick,691,0,152
+61,435317,691435317,Brunswick,691,0,152
+61,435318,692435318,Boston North Station,692,1,153
+61,435319,692435319,Boston North Station,692,1,153
+61,435320,692435320,Boston North Station,692,1,153
+61,435321,692435321,Boston North Station,692,1,153
+61,435322,692435322,Boston North Station,692,1,153
+61,435323,692435323,Boston North Station,692,1,153
+61,435883,693435883,Portland Transportation Center,693,0,156
+61,435884,693435884,Portland Transportation Center,693,0,156
+61,435885,693435885,Portland Transportation Center,693,0,156
+61,418381,693418381,Portland Transportation Center,693,0,156
+61,435886,693435886,Portland Transportation Center,693,0,156
+61,435324,694435324,Boston North Station,694,1,157
+61,418385,694418385,Boston North Station,694,1,157
+61,435325,694435325,Boston North Station,694,1,157
+61,435326,694435326,Boston North Station,694,1,157
+61,418387,694418387,Boston North Station,694,1,157
+61,435327,694435327,Boston North Station,694,1,157
+61,435891,695435891,Brunswick,695,0,152
+61,435892,695435892,Brunswick,695,0,152
+61,435893,695435893,Brunswick,695,0,152
+61,435894,695435894,Brunswick,695,0,152
+61,435895,695435895,Brunswick,695,0,152
+61,435896,695435896,Brunswick,695,0,152
+61,435328,696435328,Boston North Station,696,1,157
+61,435330,696435330,Boston North Station,696,1,157
+61,435331,696435331,Boston North Station,696,1,157
+61,435332,696435332,Boston North Station,696,1,157
+61,435333,696435333,Boston North Station,696,1,157
+61,435897,697435897,Portland Transportation Center,697,0,156
+61,435899,697435899,Portland Transportation Center,697,0,156
+61,435900,697435900,Portland Transportation Center,697,0,156
+61,435901,697435901,Portland Transportation Center,697,0,156
+61,435902,697435902,Portland Transportation Center,697,0,156
+61,435334,698435334,Boston North Station,698,1,153
+61,418412,698418412,Boston North Station,698,1,153
+61,435335,698435335,Boston North Station,698,1,153
+61,435336,698435336,Boston North Station,698,1,153
+61,418414,698418414,Boston North Station,698,1,153
+61,435337,698435337,Boston North Station,698,1,153
+61,435887,699435887,Portland Transportation Center,699,0,156
+61,418391,699418391,Portland Transportation Center,699,0,156
+61,435888,699435888,Portland Transportation Center,699,0,156
+61,435889,699435889,Portland Transportation Center,699,0,156
+61,418393,699418393,Portland Transportation Center,699,0,156
+61,435890,699435890,Portland Transportation Center,699,0,156
+75,425032,27425032,Portland Union Station,27,0,11
+75,425033,27425033,Portland Union Station,27,0,11
+75,425034,27425034,Portland Union Station,27,0,11
+75,425029,28425029,Chicago Union Station,28,1,13
+75,425030,28425030,Chicago Union Station,28,1,13
+75,425031,28425031,Chicago Union Station,28,1,13
+75,425035,7425035,Seattle King Street Station,7,0,12
+75,425036,7425036,Seattle King Street Station,7,0,12
+75,425037,7425037,Seattle King Street Station,7,0,12
+75,425040,8425040,Chicago Union Station,8,1,14
+75,425038,8425038,Chicago Union Station,8,1,14
+75,425039,8425039,Chicago Union Station,8,1,14
+75,430235,807430235,St. Paul-Minneapolis Midway Station,807,0,45
+75,430236,807430236,St. Paul-Minneapolis Midway Station,807,0,45
+75,430237,807430237,St. Paul-Minneapolis Midway Station,807,0,45
+75,430238,808430238,Chicago Union Station,808,1,14
+75,430239,808430239,Chicago Union Station,808,1,14
+75,430240,808430240,Chicago Union Station,808,1,14
+74,432021,230432021,New York Penn Station,230,1,136
+74,432022,230432022,New York Penn Station,230,1,136
+74,432024,230432024,New York Penn Station,230,1,136
+74,432017,232432017,New York Penn Station,232,1,136
+74,432018,232432018,New York Penn Station,232,1,136
+74,432020,232432020,New York Penn Station,232,1,136
+74,432025,233432025,Albany-Rensselaer Amtrak,233,0,138
+74,432026,233432026,Albany-Rensselaer Amtrak,233,0,138
+74,432646,234432646,New York Penn Station,234,1,136
+74,432647,234432647,New York Penn Station,234,1,136
+74,432649,234432649,New York Penn Station,234,1,136
+74,432027,235432027,Albany-Rensselaer Amtrak,235,0,138
+74,432028,235432028,Albany-Rensselaer Amtrak,235,0,138
+74,432030,235432030,Albany-Rensselaer Amtrak,235,0,138
+74,432651,236432651,New York Penn Station,236,1,136
+74,432650,236432650,New York Penn Station,236,1,136
+74,407587,237407587,Albany-Rensselaer Amtrak,237,0,138
+74,407589,237407589,Albany-Rensselaer Amtrak,237,0,138
+74,407591,237407591,Albany-Rensselaer Amtrak,237,0,138
+74,432652,238432652,New York Penn Station,238,1,136
+74,432653,238432653,New York Penn Station,238,1,136
+74,432031,239432031,Albany-Rensselaer Amtrak,239,0,138
+74,432032,239432032,Albany-Rensselaer Amtrak,239,0,138
+74,432034,239432034,Albany-Rensselaer Amtrak,239,0,138
+74,432035,241432035,Albany-Rensselaer Amtrak,241,0,138
+74,432036,241432036,Albany-Rensselaer Amtrak,241,0,138
+74,439803,242439803,New York Penn Station,242,1,136
+74,433261,242433261,New York Penn Station,242,1,136
+74,433263,242433263,New York Penn Station,242,1,136
+74,407608,243407608,Albany-Rensselaer Amtrak,243,0,138
+74,407610,243407610,Albany-Rensselaer Amtrak,243,0,138
+74,407612,243407612,Albany-Rensselaer Amtrak,243,0,138
+74,433265,244433265,New York Penn Station,244,1,136
+74,433264,244433264,New York Penn Station,244,1,136
+74,439804,245439804,Albany-Rensselaer Amtrak,245,0,138
+74,439806,245439806,Albany-Rensselaer Amtrak,245,0,138
+74,439807,245439807,Albany-Rensselaer Amtrak,245,0,138
+74,439809,245439809,Albany-Rensselaer Amtrak,245,0,138
+74,432041,250432041,New York Penn Station,250,1,136
+74,432042,250432042,New York Penn Station,250,1,136
+74,432043,250432043,New York Penn Station,250,1,136
+74,432654,252432654,New York Penn Station,252,1,136
+74,432655,252432655,New York Penn Station,252,1,136
+74,432656,252432656,New York Penn Station,252,1,136
+74,432044,253432044,Albany-Rensselaer Amtrak,253,0,138
+74,432045,253432045,Albany-Rensselaer Amtrak,253,0,138
+74,432046,253432046,Albany-Rensselaer Amtrak,253,0,138
+74,432657,254432657,New York Penn Station,254,1,136
+74,432658,254432658,New York Penn Station,254,1,136
+74,432660,254432660,New York Penn Station,254,1,136
+74,432661,254432661,New York Penn Station,254,1,136
+74,441450,255441450,Albany-Rensselaer Amtrak,255,0,138
+74,441452,255441452,Albany-Rensselaer Amtrak,255,0,138
+74,432676,256432676,New York Penn Station,256,1,136
+74,432677,256432677,New York Penn Station,256,1,136
+74,432679,256432679,New York Penn Station,256,1,136
+74,432680,256432680,New York Penn Station,256,1,136
+74,432070,259432070,Albany-Rensselaer Amtrak,259,0,138
+74,432071,259432071,Albany-Rensselaer Amtrak,259,0,138
+74,432072,259432072,Albany-Rensselaer Amtrak,259,0,138
+74,432050,261432050,Albany-Rensselaer Amtrak,261,0,138
+74,432051,261432051,Albany-Rensselaer Amtrak,261,0,138
+74,432052,261432052,Albany-Rensselaer Amtrak,261,0,138
+74,432665,280432665,New York Penn Station,280,1,137
+74,432666,280432666,New York Penn Station,280,1,137
+74,432667,280432667,New York Penn Station,280,1,137
+74,432669,280432669,New York Penn Station,280,1,137
+74,432062,281432062,Niagara Falls Amtrak,281,0,139
+74,432063,281432063,Niagara Falls Amtrak,281,0,139
+74,432064,283432064,Niagara Falls Amtrak,283,0,139
+74,432065,283432065,Niagara Falls Amtrak,283,0,139
+74,432670,284432670,New York Penn Station,284,1,137
+74,432671,284432671,New York Penn Station,284,1,137
+74,432673,284432673,New York Penn Station,284,1,137
+74,432674,286432674,New York Penn Station,286,1,137
+74,432675,286432675,New York Penn Station,286,1,137
+74,432069,286432069,New York Penn Station,286,1,137
+74,433269,288433269,New York Penn Station,288,1,137
+74,433270,288433270,New York Penn Station,288,1,137
+74,433272,288433272,New York Penn Station,288,1,137
+74,433273,288433273,New York Penn Station,288,1,137
+82,432681,290432681,New York Penn Station,290,1,16
+82,432682,290432682,New York Penn Station,290,1,16
+82,432684,290432684,New York Penn Station,290,1,16
+82,441487,291441487,Rutland Amtrak,291,0,15
+82,441489,291441489,Rutland Amtrak,291,0,15
+82,432688,292432688,New York Penn Station,292,1,16
+82,432689,292432689,New York Penn Station,292,1,16
+82,432083,292432083,New York Penn Station,292,1,16
+82,432075,293432075,Rutland Amtrak,293,0,15
+82,432076,293432076,Rutland Amtrak,293,0,15
+82,433277,296433277,New York Penn Station,296,1,16
+82,433278,296433278,New York Penn Station,296,1,16
+82,433280,296433280,New York Penn Station,296,1,16
+82,433281,296433281,New York Penn Station,296,1,16
+86,395236,821395236,Fort Worth Intermodal Transportation Center,821,1,18
+86,395237,821395237,Fort Worth Intermodal Transportation Center,821,1,18
+86,395238,821395238,Fort Worth Intermodal Transportation Center,821,1,18
+86,395239,822395239,Oklahoma City Amtrak,822,0,17
+86,395240,822395240,Oklahoma City Amtrak,822,0,17
+86,395241,822395241,Oklahoma City Amtrak,822,0,17
+86,395242,822395242,Oklahoma City Amtrak,822,0,17
+86,395243,822395243,Oklahoma City Amtrak,822,0,17
+54,397784,329397784,Milwaukee Intermodal Station,329,0,19
+54,397783,329397783,Milwaukee Intermodal Station,329,0,19
+54,397785,330397785,Chicago Union Station,330,1,20
+54,397786,330397786,Chicago Union Station,330,1,20
+54,397787,331397787,Milwaukee Intermodal Station,331,0,19
+54,397788,331397788,Milwaukee Intermodal Station,331,0,19
+54,397789,332397789,Chicago Union Station,332,1,20
+54,397790,332397790,Chicago Union Station,332,1,20
+54,397765,333397765,Milwaukee Intermodal Station,333,0,19
+54,397766,333397766,Milwaukee Intermodal Station,333,0,19
+54,397767,334397767,Chicago Union Station,334,1,20
+54,397768,334397768,Chicago Union Station,334,1,20
+54,397769,335397769,Milwaukee Intermodal Station,335,0,19
+54,397770,335397770,Milwaukee Intermodal Station,335,0,19
+54,397771,336397771,Chicago Union Station,336,1,20
+54,397772,336397772,Chicago Union Station,336,1,20
+54,397773,337397773,Milwaukee Intermodal Station,337,0,19
+54,397774,337397774,Milwaukee Intermodal Station,337,0,19
+54,397775,338397775,Chicago Union Station,338,1,20
+54,397776,338397776,Chicago Union Station,338,1,20
+54,397777,339397777,Milwaukee Intermodal Station,339,0,19
+54,397778,339397778,Milwaukee Intermodal Station,339,0,19
+54,397779,340397779,Chicago Union Station,340,1,20
+54,397780,340397780,Chicago Union Station,340,1,20
+54,397781,341397781,Milwaukee Intermodal Station,341,0,19
+54,397782,341397782,Milwaukee Intermodal Station,341,0,19
+54,393759,342393759,Chicago Union Station,342,1,20
+59,402342,850402342,Indianapolis Amtrak,850,1,140
+59,402343,850402343,Indianapolis Amtrak,850,1,140
+59,402344,851402344,Chicago Union Station,851,0,141
+59,402345,851402345,Chicago Union Station,851,0,141
+56,402330,392402330,Chicago Union Station,392,0,121
+56,402331,392402331,Chicago Union Station,392,0,121
+56,402332,393402332,Carbondale Amtrak,393,1,122
+56,402333,393402333,Carbondale Amtrak,393,1,122
+93,395897,380395897,Chicago Union Station,380,1,124
+93,395899,380395899,Chicago Union Station,380,1,124
+93,395900,383395900,Quincy Amtrak,383,0,123
+93,395901,383395901,Quincy Amtrak,383,0,123
+93,395902,383395902,Quincy Amtrak,383,0,123
+94,407830,600407830,Philadelphia 30th Street Station,600,1,22
+94,407832,600407832,Philadelphia 30th Street Station,600,1,22
+94,407834,600407834,Philadelphia 30th Street Station,600,1,22
+94,407711,601407711,Harrisburg Amtrak,601,0,25
+94,407713,601407713,Harrisburg Amtrak,601,0,25
+94,407715,601407715,Harrisburg Amtrak,601,0,25
+94,407836,605407836,Harrisburg Amtrak,605,0,25
+94,407838,605407838,Harrisburg Amtrak,605,0,25
+94,407840,605407840,Harrisburg Amtrak,605,0,25
+94,407842,607407842,Harrisburg Amtrak,607,0,25
+94,407844,607407844,Harrisburg Amtrak,607,0,25
+94,407846,607407846,Harrisburg Amtrak,607,0,25
+94,407848,609407848,Harrisburg Amtrak,609,0,25
+94,407850,609407850,Harrisburg Amtrak,609,0,25
+94,407852,609407852,Harrisburg Amtrak,609,0,25
+94,441525,610441525,Philadelphia 30th Street Station,610,1,22
+94,441527,610441527,Philadelphia 30th Street Station,610,1,22
+94,441528,610441528,Philadelphia 30th Street Station,610,1,22
+94,441533,611441533,Harrisburg Amtrak,611,0,25
+94,441535,611441535,Harrisburg Amtrak,611,0,25
+94,441536,611441536,Harrisburg Amtrak,611,0,25
+94,407859,612407859,Philadelphia 30th Street Station,612,1,22
+94,407860,612407860,Philadelphia 30th Street Station,612,1,22
+94,407862,612407862,Philadelphia 30th Street Station,612,1,22
+94,407863,612407863,Philadelphia 30th Street Station,612,1,22
+94,407865,612407865,Philadelphia 30th Street Station,612,1,22
+94,407866,612407866,Philadelphia 30th Street Station,612,1,22
+94,407721,615407721,Harrisburg Amtrak,615,0,25
+94,407722,615407722,Harrisburg Amtrak,615,0,25
+94,407724,615407724,Harrisburg Amtrak,615,0,25
+94,407725,615407725,Harrisburg Amtrak,615,0,25
+94,407727,615407727,Harrisburg Amtrak,615,0,25
+94,407728,615407728,Harrisburg Amtrak,615,0,25
+94,407868,618407868,Philadelphia 30th Street Station,618,1,22
+94,407870,618407870,Philadelphia 30th Street Station,618,1,22
+94,407872,618407872,Philadelphia 30th Street Station,618,1,22
+94,407730,619407730,Harrisburg Amtrak,619,0,25
+94,407732,619407732,Harrisburg Amtrak,619,0,25
+94,407734,619407734,Harrisburg Amtrak,619,0,25
+94,407736,620407736,Philadelphia 30th Street Station,620,1,22
+94,407740,620407740,Philadelphia 30th Street Station,620,1,22
+94,407739,620407739,Philadelphia 30th Street Station,620,1,22
+94,407742,622407742,Philadelphia 30th Street Station,622,1,22
+94,407744,622407744,Philadelphia 30th Street Station,622,1,22
+94,407746,622407746,Philadelphia 30th Street Station,622,1,22
+94,407874,637407874,Philadelphia 30th Street Station,637,1,24
+94,407875,637407875,Philadelphia 30th Street Station,637,1,24
+94,407877,637407877,Philadelphia 30th Street Station,637,1,24
+94,407878,637407878,Philadelphia 30th Street Station,637,1,24
+94,407880,637407880,Philadelphia 30th Street Station,637,1,24
+94,407881,637407881,Philadelphia 30th Street Station,637,1,24
+94,407748,639407748,Philadelphia 30th Street Station,639,1,24
+94,407750,639407750,Philadelphia 30th Street Station,639,1,24
+94,407752,639407752,Philadelphia 30th Street Station,639,1,24
+94,407754,640407754,New York Penn Station,640,1,21
+94,407756,640407756,New York Penn Station,640,1,21
+94,407758,640407758,New York Penn Station,640,1,21
+94,407883,641407883,Harrisburg Amtrak,641,0,23
+94,407885,641407885,Harrisburg Amtrak,641,0,23
+94,407887,641407887,Harrisburg Amtrak,641,0,23
+94,407889,642407889,New York Penn Station,642,1,21
+94,407891,642407891,New York Penn Station,642,1,21
+94,407893,642407893,New York Penn Station,642,1,21
+94,407760,643407760,Harrisburg Amtrak,643,0,23
+94,407762,643407762,Harrisburg Amtrak,643,0,23
+94,407764,643407764,Harrisburg Amtrak,643,0,23
+94,407766,644407766,New York Penn Station,644,1,21
+94,407768,644407768,New York Penn Station,644,1,21
+94,407770,644407770,New York Penn Station,644,1,21
+94,407895,645407895,Harrisburg Amtrak,645,0,23
+94,407897,645407897,Harrisburg Amtrak,645,0,23
+94,407899,645407899,Harrisburg Amtrak,645,0,23
+94,407772,646407772,New York Penn Station,646,1,21
+94,407774,646407774,New York Penn Station,646,1,21
+94,407776,646407776,New York Penn Station,646,1,21
+94,407901,647407901,Harrisburg Amtrak,647,0,23
+94,407903,647407903,Harrisburg Amtrak,647,0,23
+94,407905,647407905,Harrisburg Amtrak,647,0,23
+94,407778,648407778,New York Penn Station,648,1,21
+94,407780,648407780,New York Penn Station,648,1,21
+94,407782,648407782,New York Penn Station,648,1,21
+94,407784,649407784,Harrisburg Amtrak,649,0,23
+94,407786,649407786,Harrisburg Amtrak,649,0,23
+94,407788,649407788,Harrisburg Amtrak,649,0,23
+94,407907,650407907,New York Penn Station,650,1,21
+94,407909,650407909,New York Penn Station,650,1,21
+94,407911,650407911,New York Penn Station,650,1,21
+94,407790,651407790,Harrisburg Amtrak,651,0,23
+94,407792,651407792,Harrisburg Amtrak,651,0,23
+94,407794,651407794,Harrisburg Amtrak,651,0,23
+94,407796,652407796,New York Penn Station,652,1,21
+94,407798,652407798,New York Penn Station,652,1,21
+94,407800,652407800,New York Penn Station,652,1,21
+94,407913,653407913,Harrisburg Amtrak,653,0,23
+94,407915,653407915,Harrisburg Amtrak,653,0,23
+94,407917,653407917,Harrisburg Amtrak,653,0,23
+94,407802,654407802,New York Penn Station,654,1,21
+94,407804,654407804,New York Penn Station,654,1,21
+94,407806,654407806,New York Penn Station,654,1,21
+94,407919,655407919,Harrisburg Amtrak,655,0,23
+94,407921,655407921,Harrisburg Amtrak,655,0,23
+94,407923,655407923,Harrisburg Amtrak,655,0,23
+94,407808,656407808,New York Penn Station,656,1,21
+94,407810,656407810,New York Penn Station,656,1,21
+94,407812,656407812,New York Penn Station,656,1,21
+94,396048,658396048,New York Penn Station,658,1,21
+94,396049,658396049,New York Penn Station,658,1,21
+94,396050,658396050,New York Penn Station,658,1,21
+94,407813,660407813,New York Penn Station,660,1,21
+94,396053,660396053,New York Penn Station,660,1,21
+94,396054,660396054,New York Penn Station,660,1,21
+94,407814,660407814,New York Penn Station,660,1,21
+94,407815,661407815,Harrisburg Amtrak,661,0,23
+94,396057,661396057,Harrisburg Amtrak,661,0,23
+94,396058,661396058,Harrisburg Amtrak,661,0,23
+94,407816,661407816,Harrisburg Amtrak,661,0,23
+94,441529,662441529,New York Penn Station,662,1,21
+94,441531,662441531,New York Penn Station,662,1,21
+94,441532,662441532,New York Penn Station,662,1,21
+94,407924,663407924,Harrisburg Amtrak,663,0,23
+94,396196,663396196,Harrisburg Amtrak,663,0,23
+94,396197,663396197,Harrisburg Amtrak,663,0,23
+94,407925,663407925,Harrisburg Amtrak,663,0,23
+94,407822,664407822,New York Penn Station,664,1,21
+94,396064,664396064,New York Penn Station,664,1,21
+94,396065,664396065,New York Penn Station,664,1,21
+94,407821,664407821,New York Penn Station,664,1,21
+94,407926,665407926,Harrisburg Amtrak,665,0,23
+94,396199,665396199,Harrisburg Amtrak,665,0,23
+94,396200,665396200,Harrisburg Amtrak,665,0,23
+94,407927,665407927,Harrisburg Amtrak,665,0,23
+94,407823,666407823,New York Penn Station,666,1,21
+94,396068,666396068,New York Penn Station,666,1,21
+94,396069,666396069,New York Penn Station,666,1,21
+94,407824,666407824,New York Penn Station,666,1,21
+94,407704,667407704,Harrisburg Amtrak,667,0,23
+94,395905,667395905,Harrisburg Amtrak,667,0,23
+94,395906,667395906,Harrisburg Amtrak,667,0,23
+94,407705,667407705,Harrisburg Amtrak,667,0,23
+94,407825,669407825,Harrisburg Amtrak,669,0,23
+94,396072,669396072,Harrisburg Amtrak,669,0,23
+94,396073,669396073,Harrisburg Amtrak,669,0,23
+94,407826,669407826,Harrisburg Amtrak,669,0,23
+94,407706,670407706,New York Penn Station,670,1,21
+94,395909,670395909,New York Penn Station,670,1,21
+94,395910,670395910,New York Penn Station,670,1,21
+94,407707,670407707,New York Penn Station,670,1,21
+94,407827,671407827,Harrisburg Amtrak,671,0,23
+94,396076,671396076,Harrisburg Amtrak,671,0,23
+94,396077,671396077,Harrisburg Amtrak,671,0,23
+94,407828,671407828,Harrisburg Amtrak,671,0,23
+94,407708,672407708,New York Penn Station,672,1,21
+94,395913,672395913,New York Penn Station,672,1,21
+94,395914,672395914,New York Penn Station,672,1,21
+94,407709,672407709,New York Penn Station,672,1,21
+94,407930,674407930,New York Penn Station,674,1,21
+94,407931,674407931,New York Penn Station,674,1,21
+94,407933,674407933,New York Penn Station,674,1,21
+94,407934,674407934,New York Penn Station,674,1,21
+94,407936,674407936,New York Penn Station,674,1,21
+94,407928,674407928,New York Penn Station,674,1,21
+81,396443,448396443,Boston South Station,448,1,126
+81,396444,448396444,Boston South Station,448,1,126
+81,396445,448396445,Boston South Station,448,1,126
+81,396446,448396446,Boston South Station,448,1,126
+81,415686,449415686,Chicago Union Station,449,0,125
+81,415687,449415687,Chicago Union Station,449,0,125
+81,415689,449415689,Chicago Union Station,449,0,125
+81,394987,48394987,New York Penn Station,48,1,127
+81,394988,48394988,New York Penn Station,48,1,127
+81,432073,49432073,Chicago Union Station,49,0,128
+81,432074,49432074,Chicago Union Station,49,0,128
+76,437087,300437087,Chicago Union Station,300,0,130
+76,437088,300437088,Chicago Union Station,300,0,130
+76,437089,301437089,St. Louis Gateway Station,301,1,129
+76,437090,301437090,St. Louis Gateway Station,301,1,129
+76,440386,302440386,Chicago Union Station,302,0,130
+76,440387,302440387,Chicago Union Station,302,0,130
+76,440384,303440384,St. Louis Gateway Station,303,1,129
+76,440385,303440385,St. Louis Gateway Station,303,1,129
+76,440389,304440389,Chicago Union Station,304,0,130
+76,440388,304440388,Chicago Union Station,304,0,130
+76,440390,305440390,St. Louis Gateway Station,305,1,129
+76,440391,305440391,St. Louis Gateway Station,305,1,129
+76,440392,306440392,Chicago Union Station,306,0,130
+76,440393,306440393,Chicago Union Station,306,0,130
+76,440394,307440394,St. Louis Gateway Station,307,1,129
+76,440395,307440395,St. Louis Gateway Station,307,1,129
+83,395019,311395019,Kansas City Amtrak,311,0,143
+83,395020,311395020,Kansas City Amtrak,311,0,143
+83,130508,313130508,Kansas City Amtrak,313,0,143
+83,130506,313130506,Kansas City Amtrak,313,0,143
+83,130507,313130507,Kansas City Amtrak,313,0,143
+83,395021,314395021,St. Louis Gateway Station,314,1,142
+83,395022,314395022,St. Louis Gateway Station,314,1,142
+83,395023,314395023,St. Louis Gateway Station,314,1,142
+83,395024,314395024,St. Louis Gateway Station,314,1,142
+83,395025,316395025,St. Louis Gateway Station,316,1,142
+83,395026,316395026,St. Louis Gateway Station,316,1,142
+88,409943,110409943,New York Penn Station,110,0,99
+88,409945,110409945,New York Penn Station,110,0,99
+88,409947,110409947,New York Penn Station,110,0,99
+88,434002,111434002,Washington Union Station,111,1,93
+88,434003,111434003,Washington Union Station,111,1,93
+88,434004,111434004,Washington Union Station,111,1,93
+88,409249,111409249,Washington Union Station,111,1,93
+88,434005,121434005,Washington Union Station,121,1,93
+88,434006,121434006,Washington Union Station,121,1,93
+88,435926,121435926,Washington Union Station,121,1,93
+88,435927,121435927,Washington Union Station,121,1,93
+88,434009,121434009,Washington Union Station,121,1,93
+88,434697,123434697,Washington Union Station,123,1,93
+88,434698,123434698,Washington Union Station,123,1,93
+88,434700,123434700,Washington Union Station,123,1,93
+88,434701,123434701,Washington Union Station,123,1,93
+88,434702,125434702,Richmond Staples Mill Station,125,1,92
+88,434703,125434703,Richmond Staples Mill Station,125,1,92
+88,434705,125434705,Richmond Staples Mill Station,125,1,92
+88,410833,126410833,New York Penn Station,126,0,99
+88,410835,126410835,New York Penn Station,126,0,99
+88,410836,126410836,New York Penn Station,126,0,99
+88,410838,126410838,New York Penn Station,126,0,99
+88,410839,126410839,New York Penn Station,126,0,99
+88,434706,127434706,Washington Union Station,127,1,93
+88,434012,127434012,Washington Union Station,127,1,93
+88,434013,127434013,Washington Union Station,127,1,93
+88,434014,127434014,Washington Union Station,127,1,93
+88,434016,127434016,Washington Union Station,127,1,93
+88,434707,129434707,Washington Union Station,129,1,93
+88,434018,129434018,Washington Union Station,129,1,93
+88,434019,129434019,Washington Union Station,129,1,93
+88,434020,129434020,Washington Union Station,129,1,93
+88,434021,129434021,Washington Union Station,129,1,93
+88,434023,129434023,Washington Union Station,129,1,93
+88,409970,130409970,New York Penn Station,130,0,99
+88,409972,130409972,New York Penn Station,130,0,99
+88,409974,130409974,New York Penn Station,130,0,99
+88,435928,131435928,Washington Union Station,131,1,93
+88,435929,131435929,Washington Union Station,131,1,93
+88,435930,131435930,Washington Union Station,131,1,93
+88,434027,131434027,Washington Union Station,131,1,93
+88,416481,132416481,Boston South Station,132,0,98
+88,416482,132416482,Boston South Station,132,0,98
+88,416484,132416484,Boston South Station,132,0,98
+88,416485,132416485,Boston South Station,132,0,98
+88,416487,132416487,Boston South Station,132,0,98
+88,416488,132416488,Boston South Station,132,0,98
+88,395362,133395362,Washington Union Station,133,1,93
+88,395364,133395364,Washington Union Station,133,1,93
+88,395365,133395365,Washington Union Station,133,1,93
+88,395367,134395367,New York Penn Station,134,0,99
+88,395369,134395369,New York Penn Station,134,0,99
+88,395370,134395370,New York Penn Station,134,0,99
+88,434708,135434708,Washington Union Station,135,1,87
+88,434709,135434709,Washington Union Station,135,1,87
+88,434710,135434710,Washington Union Station,135,1,87
+88,415709,136415709,Springfield Amtrak,136,0,100
+88,415710,136415710,Springfield Amtrak,136,0,100
+88,415711,136415711,Springfield Amtrak,136,0,100
+88,434711,137434711,Washington Union Station,137,1,87
+88,434029,137434029,Washington Union Station,137,1,87
+88,434030,137434030,Washington Union Station,137,1,87
+88,434032,137434032,Washington Union Station,137,1,87
+88,410847,138410847,New York Penn Station,138,0,99
+88,410849,138410849,New York Penn Station,138,0,99
+88,410851,138410851,New York Penn Station,138,0,99
+88,434719,139434719,Washington Union Station,139,1,87
+88,434720,139434720,Washington Union Station,139,1,87
+88,434722,139434722,Washington Union Station,139,1,87
+88,434723,139434723,Washington Union Station,139,1,87
+88,441500,140441500,Springfield Amtrak,140,0,100
+88,441501,140441501,Springfield Amtrak,140,0,100
+88,441502,140441502,Springfield Amtrak,140,0,100
+88,434718,141434718,Washington Union Station,141,1,97
+88,434040,141434040,Washington Union Station,141,1,97
+88,434041,141434041,Washington Union Station,141,1,97
+88,434043,141434043,Washington Union Station,141,1,97
+88,441504,143441504,Washington Union Station,143,1,97
+88,441506,143441506,Washington Union Station,143,1,97
+88,441507,143441507,Washington Union Station,143,1,97
+88,441508,143441508,Washington Union Station,143,1,97
+88,416509,145416509,Lynchburg Amtrak,145,1,96
+88,416510,145416510,Lynchburg Amtrak,145,1,96
+88,416512,145416512,Lynchburg Amtrak,145,1,96
+88,416513,145416513,Lynchburg Amtrak,145,1,96
+88,416515,145416515,Lynchburg Amtrak,145,1,96
+88,416516,145416516,Lynchburg Amtrak,145,1,96
+88,415722,146415722,Springfield Amtrak,146,0,100
+88,415723,146415723,Springfield Amtrak,146,0,100
+88,415724,146415724,Springfield Amtrak,146,0,100
+88,415725,146415725,Springfield Amtrak,146,0,100
+88,415726,146415726,Springfield Amtrak,146,0,100
+88,434735,147434735,Lynchburg Amtrak,147,1,96
+88,434736,147434736,Lynchburg Amtrak,147,1,96
+88,434737,147434737,Lynchburg Amtrak,147,1,96
+88,427594,148427594,Springfield Amtrak,148,0,100
+88,427595,148427595,Springfield Amtrak,148,0,100
+88,427597,148427597,Springfield Amtrak,148,0,100
+88,441510,150441510,Boston South Station,150,0,98
+88,441511,150441511,Boston South Station,150,0,98
+88,441512,150441512,Boston South Station,150,0,98
+88,441513,150441513,Boston South Station,150,0,98
+88,409253,151409253,Washington Union Station,151,1,93
+88,409255,151409255,Washington Union Station,151,1,93
+88,409257,151409257,Washington Union Station,151,1,93
+88,410013,152410013,New York Penn Station,152,0,99
+88,410014,152410014,New York Penn Station,152,0,99
+88,410015,152410015,New York Penn Station,152,0,99
+88,434055,153434055,Washington Union Station,153,1,93
+88,434056,153434056,Washington Union Station,153,1,93
+88,410018,153410018,Washington Union Station,153,1,93
+88,395468,154395468,New York Penn Station,154,0,99
+88,395470,154395470,New York Penn Station,154,0,99
+88,410862,154410862,New York Penn Station,154,0,99
+88,410864,154410864,New York Penn Station,154,0,99
+88,410865,154410865,New York Penn Station,154,0,99
+88,434738,155434738,Washington Union Station,155,1,93
+88,434739,155434739,Washington Union Station,155,1,93
+88,410020,155410020,Washington Union Station,155,1,93
+88,410866,156410866,New York Penn Station,156,0,89
+88,410867,156410867,New York Penn Station,156,0,89
+88,410868,156410868,New York Penn Station,156,0,89
+88,434740,157434740,Richmond Staples Mill Station,157,1,92
+88,434741,157434741,Richmond Staples Mill Station,157,1,92
+88,434743,157434743,Richmond Staples Mill Station,157,1,92
+88,434744,157434744,Richmond Staples Mill Station,157,1,92
+88,416520,158416520,New York Penn Station,158,0,99
+88,416522,158416522,New York Penn Station,158,0,99
+88,416523,158416523,New York Penn Station,158,0,99
+88,416524,158416524,New York Penn Station,158,0,99
+88,434751,159434751,Washington Union Station,159,1,93
+88,434752,159434752,Washington Union Station,159,1,93
+88,410033,159410033,Washington Union Station,159,1,93
+88,441515,160441515,Boston South Station,160,0,98
+88,441517,160441517,Boston South Station,160,0,98
+88,441518,160441518,Boston South Station,160,0,98
+88,441519,160441519,Boston South Station,160,0,98
+88,434753,161434753,Washington Union Station,161,1,87
+88,434754,161434754,Washington Union Station,161,1,87
+88,434755,161434755,Washington Union Station,161,1,87
+88,416543,162416543,Boston South Station,162,0,98
+88,416544,162416544,Boston South Station,162,0,98
+88,416545,162416545,Boston South Station,162,0,98
+88,416546,162416546,Boston South Station,162,0,98
+88,416547,162416547,Boston South Station,162,0,98
+88,434756,163434756,Washington Union Station,163,1,87
+88,434757,163434757,Washington Union Station,163,1,87
+88,434758,163434758,Washington Union Station,163,1,87
+88,415754,164415754,Boston South Station,164,0,94
+88,415755,164415755,Boston South Station,164,0,94
+88,415756,164415756,Boston South Station,164,0,94
+88,415757,164415757,Boston South Station,164,0,94
+88,415758,164415758,Boston South Station,164,0,94
+88,416556,165416556,Washington Union Station,165,1,87
+88,416557,165416557,Washington Union Station,165,1,87
+88,416558,165416558,Washington Union Station,165,1,87
+88,416559,165416559,Washington Union Station,165,1,87
+88,416560,165416560,Washington Union Station,165,1,87
+88,416551,166416551,Boston South Station,166,0,98
+88,416552,166416552,Boston South Station,166,0,98
+88,416554,166416554,Boston South Station,166,0,98
+88,416555,166416555,Boston South Station,166,0,98
+88,416549,166416549,Boston South Station,166,0,98
+88,416550,166416550,Boston South Station,166,0,98
+88,434759,167434759,Washington Union Station,167,1,87
+88,434760,167434760,Washington Union Station,167,1,87
+88,434761,167434761,Washington Union Station,167,1,87
+88,416567,168416567,Boston South Station,168,0,98
+88,416569,168416569,Boston South Station,168,0,98
+88,416570,168416570,Boston South Station,168,0,98
+88,416571,168416571,Boston South Station,168,0,98
+88,434762,169434762,Washington Union Station,169,1,87
+88,434763,169434763,Washington Union Station,169,1,87
+88,434764,169434764,Washington Union Station,169,1,87
+88,410055,170410055,Boston South Station,170,0,98
+88,410057,170410057,Boston South Station,170,0,98
+88,410059,170410059,Boston South Station,170,0,98
+88,434078,171434078,Lynchburg Amtrak,171,1,83
+88,434079,171434079,Lynchburg Amtrak,171,1,83
+88,434080,171434080,Lynchburg Amtrak,171,1,83
+88,434081,171434081,Lynchburg Amtrak,171,1,83
+88,434082,171434082,Lynchburg Amtrak,171,1,83
+88,434084,171434084,Lynchburg Amtrak,171,1,83
+88,434085,171434085,Lynchburg Amtrak,171,1,83
+88,434086,171434086,Lynchburg Amtrak,171,1,83
+88,434074,172434074,Boston South Station,172,0,98
+88,434075,172434075,Boston South Station,172,0,98
+88,434077,172434077,Boston South Station,172,0,98
+88,434087,173434087,Washington Union Station,173,1,87
+88,434088,173434088,Washington Union Station,173,1,87
+88,434089,173434089,Washington Union Station,173,1,87
+88,434091,173434091,Washington Union Station,173,1,87
+88,415771,174415771,Boston South Station,174,0,94
+88,415772,174415772,Boston South Station,174,0,94
+88,415773,174415773,Boston South Station,174,0,94
+88,415775,174415775,Boston South Station,174,0,94
+88,415777,174415777,Boston South Station,174,0,94
+88,434765,175434765,Washington Union Station,175,1,87
+88,434093,175434093,Washington Union Station,175,1,87
+88,434094,175434094,Washington Union Station,175,1,87
+88,434096,175434096,Washington Union Station,175,1,87
+88,432731,176432731,Boston South Station,176,0,88
+88,432732,176432732,Boston South Station,176,0,88
+88,432733,176432733,Boston South Station,176,0,88
+88,432735,176432735,Boston South Station,176,0,88
+88,434097,177434097,Washington Union Station,177,1,87
+88,434098,177434098,Washington Union Station,177,1,87
+88,434099,177434099,Washington Union Station,177,1,87
+88,434101,177434101,Washington Union Station,177,1,87
+88,417273,178417273,Boston South Station,178,0,98
+88,417271,178417271,Boston South Station,178,0,98
+88,417272,178417272,Boston South Station,178,0,98
+88,415789,178415789,Boston South Station,178,0,98
+88,415791,178415791,Boston South Station,178,0,98
+88,417274,179417274,New York Penn Station,179,1,85
+88,417276,179417276,New York Penn Station,179,1,85
+88,415803,179415803,New York Penn Station,179,1,85
+88,415805,179415805,New York Penn Station,179,1,85
+88,410090,180410090,New York Penn Station,180,0,99
+88,410092,180410092,New York Penn Station,180,0,99
+88,410094,180410094,New York Penn Station,180,0,99
+88,434102,181434102,Washington Union Station,181,1,93
+88,434103,181434103,Washington Union Station,181,1,93
+88,434104,181434104,Washington Union Station,181,1,93
+88,434106,181434106,Washington Union Station,181,1,93
+88,410905,182410905,New York Penn Station,182,0,99
+88,410906,182410906,New York Penn Station,182,0,99
+88,410907,182410907,New York Penn Station,182,0,99
+88,434107,183434107,Washington Union Station,183,1,93
+88,434108,183434108,Washington Union Station,183,1,93
+88,434109,183434109,Washington Union Station,183,1,93
+88,410104,183410104,Washington Union Station,183,1,93
+88,410105,184410105,New York Penn Station,184,0,99
+88,410107,184410107,New York Penn Station,184,0,99
+88,410109,184410109,New York Penn Station,184,0,99
+88,434766,185434766,Washington Union Station,185,1,93
+88,434110,185434110,Washington Union Station,185,1,93
+88,434111,185434111,Washington Union Station,185,1,93
+88,410114,185410114,Washington Union Station,185,1,93
+88,410908,186410908,New York Penn Station,186,0,99
+88,410910,186410910,New York Penn Station,186,0,99
+88,410912,186410912,New York Penn Station,186,0,99
+88,434767,187434767,Washington Union Station,187,1,93
+88,434114,187434114,Washington Union Station,187,1,93
+88,434115,187434115,Washington Union Station,187,1,93
+88,434117,187434117,Washington Union Station,187,1,93
+88,410913,188410913,New York Penn Station,188,0,99
+88,410915,188410915,New York Penn Station,188,0,99
+88,410917,188410917,New York Penn Station,188,0,99
+88,417277,190417277,Boston South Station,190,0,98
+88,417278,190417278,Boston South Station,190,0,98
+88,417279,190417279,Boston South Station,190,0,98
+88,417281,190417281,Boston South Station,190,0,98
+88,417283,190417283,Boston South Station,190,0,98
+88,410919,192410919,New York Penn Station,192,0,99
+88,395719,192395719,New York Penn Station,192,0,99
+88,410918,192410918,New York Penn Station,192,0,99
+88,434768,193434768,Washington Union Station,193,1,93
+88,434119,193434119,Washington Union Station,193,1,93
+88,434120,193434120,Washington Union Station,193,1,93
+88,410130,193410130,Washington Union Station,193,1,93
+88,416572,194416572,Boston South Station,194,0,90
+88,416573,194416573,Boston South Station,194,0,90
+88,416574,194416574,Boston South Station,194,0,90
+88,416575,194416575,Boston South Station,194,0,90
+88,416576,194416576,Boston South Station,194,0,90
+88,441521,195441521,Richmond Staples Mill Station,195,1,86
+88,441522,195441522,Richmond Staples Mill Station,195,1,86
+88,441523,195441523,Richmond Staples Mill Station,195,1,86
+88,441524,195441524,Richmond Staples Mill Station,195,1,86
+88,410923,196410923,New York Penn Station,196,0,99
+88,410925,196410925,New York Penn Station,196,0,99
+88,410927,196410927,New York Penn Station,196,0,99
+88,416580,198416580,New York Penn Station,198,0,99
+88,416582,198416582,New York Penn Station,198,0,99
+88,439876,66439876,Boston South Station,66,0,90
+88,439877,66439877,Boston South Station,66,0,90
+88,439878,66439878,Boston South Station,66,0,90
+88,439870,67439870,Newport News Amtrak,67,1,84
+88,439871,67439871,Newport News Amtrak,67,1,84
+88,439872,67439872,Newport News Amtrak,67,1,84
+88,439873,67439873,Newport News Amtrak,67,1,84
+88,439874,67439874,Newport News Amtrak,67,1,84
+88,439875,67439875,Newport News Amtrak,67,1,84
+88,434788,71434788,Norfolk,71,1,158
+88,434789,71434789,Norfolk,71,1,158
+88,434790,71434790,Norfolk,71,1,158
+88,440956,82440956,Boston South Station,82,0,94
+88,440957,82440957,Boston South Station,82,0,94
+88,440958,82440958,Boston South Station,82,0,94
+88,434786,83434786,Newport News Amtrak,83,1,84
+88,434787,83434787,Newport News Amtrak,83,1,84
+88,410939,84410939,New York Penn Station,84,0,95
+88,410941,84410941,New York Penn Station,84,0,95
+88,410943,84410943,New York Penn Station,84,0,95
+88,434130,85434130,Richmond Staples Mill Station,85,1,92
+88,434131,85434131,Richmond Staples Mill Station,85,1,92
+88,434132,85434132,Richmond Staples Mill Station,85,1,92
+88,410149,85410149,Richmond Staples Mill Station,85,1,92
+88,410150,86410150,Boston South Station,86,0,94
+88,410152,86410152,Boston South Station,86,0,94
+88,410154,86410154,Boston South Station,86,0,94
+88,434778,87434778,Richmond Staples Mill Station,87,1,92
+88,434779,87434779,Richmond Staples Mill Station,87,1,92
+88,434781,87434781,Richmond Staples Mill Station,87,1,92
+88,434782,87434782,Richmond Staples Mill Station,87,1,92
+88,416597,88416597,Boston South Station,88,0,94
+88,416598,88416598,Boston South Station,88,0,94
+88,416599,88416599,Boston South Station,88,0,94
+88,416600,88416600,Boston South Station,88,0,94
+88,416601,88416601,Boston South Station,88,0,94
+88,434133,93434133,Richmond Staples Mill Station,93,1,86
+88,434134,93434134,Richmond Staples Mill Station,93,1,86
+88,434135,93434135,Richmond Staples Mill Station,93,1,86
+88,410166,93410166,Richmond Staples Mill Station,93,1,86
+88,415824,94415824,Boston South Station,94,0,90
+88,415825,94415825,Boston South Station,94,0,90
+88,415826,94415826,Boston South Station,94,0,90
+88,415828,94415828,Boston South Station,94,0,90
+88,415830,94415830,Boston South Station,94,0,90
+88,423077,95423077,Newport News Amtrak,95,1,84
+88,423079,95423079,Newport News Amtrak,95,1,84
+88,423080,95423080,Newport News Amtrak,95,1,84
+88,423082,95423082,Newport News Amtrak,95,1,84
+88,434783,99434783,Newport News Amtrak,99,1,84
+88,434784,99434784,Newport News Amtrak,99,1,84
+88,434785,99434785,Newport News Amtrak,99,1,84
+78,437112,1761437112,San Luis Obispo Amtrak,1761,0,150
+78,437113,1761437113,San Luis Obispo Amtrak,1761,0,150
+78,437114,1761437114,San Luis Obispo Amtrak,1761,0,150
+78,437115,1761437115,San Luis Obispo Amtrak,1761,0,150
+78,436539,1790436539,San Diego Santa Fe Depot,1790,1,146
+78,436540,1790436540,San Diego Santa Fe Depot,1790,1,146
+78,436541,1790436541,San Diego Santa Fe Depot,1790,1,146
+78,436542,1790436542,San Diego Santa Fe Depot,1790,1,146
+78,436543,1790436543,San Diego Santa Fe Depot,1790,1,146
+78,436544,1790436544,San Diego Santa Fe Depot,1790,1,146
+78,436473,562436473,San Diego Santa Fe Depot,562,1,101
+78,436474,562436474,San Diego Santa Fe Depot,562,1,101
+78,436475,562436475,San Diego Santa Fe Depot,562,1,101
+78,436476,562436476,San Diego Santa Fe Depot,562,1,101
+78,436477,562436477,San Diego Santa Fe Depot,562,1,101
+78,436478,562436478,San Diego Santa Fe Depot,562,1,101
+78,436479,562436479,San Diego Santa Fe Depot,562,1,101
+78,436469,564436469,San Diego Santa Fe Depot,564,1,101
+78,436463,564436463,San Diego Santa Fe Depot,564,1,101
+78,436464,564436464,San Diego Santa Fe Depot,564,1,101
+78,436465,564436465,San Diego Santa Fe Depot,564,1,101
+78,436466,564436466,San Diego Santa Fe Depot,564,1,101
+78,436467,564436467,San Diego Santa Fe Depot,564,1,101
+78,436468,564436468,San Diego Santa Fe Depot,564,1,101
+78,436470,564436470,San Diego Santa Fe Depot,564,1,101
+78,439813,565439813,Los Angeles Union Station,565,0,102
+78,439814,565439814,Los Angeles Union Station,565,0,102
+78,439815,565439815,Los Angeles Union Station,565,0,102
+78,439816,565439816,Los Angeles Union Station,565,0,102
+78,439817,565439817,Los Angeles Union Station,565,0,102
+78,439818,565439818,Los Angeles Union Station,565,0,102
+78,439819,565439819,Los Angeles Union Station,565,0,102
+78,439820,565439820,Los Angeles Union Station,565,0,102
+78,439821,565439821,Los Angeles Union Station,565,0,102
+78,436471,566436471,San Diego Santa Fe Depot,566,1,101
+78,436472,566436472,San Diego Santa Fe Depot,566,1,101
+78,439227,567439227,Los Angeles Union Station,567,0,102
+78,439228,567439228,Los Angeles Union Station,567,0,102
+78,439229,567439229,Los Angeles Union Station,567,0,102
+78,439230,567439230,Los Angeles Union Station,567,0,102
+78,439231,567439231,Los Angeles Union Station,567,0,102
+78,439232,567439232,Los Angeles Union Station,567,0,102
+78,439233,567439233,Los Angeles Union Station,567,0,102
+78,439234,567439234,Los Angeles Union Station,567,0,102
+78,437098,572437098,San Diego Santa Fe Depot,572,1,101
+78,436481,572436481,San Diego Santa Fe Depot,572,1,101
+78,436482,572436482,San Diego Santa Fe Depot,572,1,101
+78,436483,572436483,San Diego Santa Fe Depot,572,1,101
+78,436484,572436484,San Diego Santa Fe Depot,572,1,101
+78,436485,572436485,San Diego Santa Fe Depot,572,1,101
+78,436486,572436486,San Diego Santa Fe Depot,572,1,101
+78,436487,572436487,San Diego Santa Fe Depot,572,1,101
+78,436488,572436488,San Diego Santa Fe Depot,572,1,101
+78,439236,573439236,Los Angeles Union Station,573,0,102
+78,439237,573439237,Los Angeles Union Station,573,0,102
+78,439238,573439238,Los Angeles Union Station,573,0,102
+78,439239,573439239,Los Angeles Union Station,573,0,102
+78,439240,573439240,Los Angeles Union Station,573,0,102
+78,439241,573439241,Los Angeles Union Station,573,0,102
+78,439242,573439242,Los Angeles Union Station,573,0,102
+78,439243,573439243,Los Angeles Union Station,573,0,102
+78,439244,579439244,Los Angeles Union Station,579,0,102
+78,439245,579439245,Los Angeles Union Station,579,0,102
+78,439246,579439246,Los Angeles Union Station,579,0,102
+78,439247,579439247,Los Angeles Union Station,579,0,102
+78,439248,579439248,Los Angeles Union Station,579,0,102
+78,439249,579439249,Los Angeles Union Station,579,0,102
+78,439250,579439250,Los Angeles Union Station,579,0,102
+78,436489,580436489,San Diego Santa Fe Depot,580,1,101
+78,436490,580436490,San Diego Santa Fe Depot,580,1,101
+78,436491,580436491,San Diego Santa Fe Depot,580,1,101
+78,436492,580436492,San Diego Santa Fe Depot,580,1,101
+78,436493,580436493,San Diego Santa Fe Depot,580,1,101
+78,436494,580436494,San Diego Santa Fe Depot,580,1,101
+78,436495,580436495,San Diego Santa Fe Depot,580,1,101
+78,436496,582436496,San Diego Santa Fe Depot,582,1,101
+78,436497,582436497,San Diego Santa Fe Depot,582,1,101
+78,436498,582436498,San Diego Santa Fe Depot,582,1,101
+78,436499,582436499,San Diego Santa Fe Depot,582,1,101
+78,436500,582436500,San Diego Santa Fe Depot,582,1,101
+78,436501,582436501,San Diego Santa Fe Depot,582,1,101
+78,436502,582436502,San Diego Santa Fe Depot,582,1,101
+78,436503,582436503,San Diego Santa Fe Depot,582,1,101
+78,439254,583439254,Los Angeles Union Station,583,0,102
+78,439251,583439251,Los Angeles Union Station,583,0,102
+78,439252,583439252,Los Angeles Union Station,583,0,102
+78,439253,583439253,Los Angeles Union Station,583,0,102
+78,439255,591439255,Los Angeles Union Station,591,0,102
+78,439256,591439256,Los Angeles Union Station,591,0,102
+78,439257,591439257,Los Angeles Union Station,591,0,102
+78,439258,591439258,Los Angeles Union Station,591,0,102
+78,439259,591439259,Los Angeles Union Station,591,0,102
+78,439260,591439260,Los Angeles Union Station,591,0,102
+78,439261,591439261,Los Angeles Union Station,591,0,102
+78,439262,591439262,Los Angeles Union Station,591,0,102
+78,439263,591439263,Los Angeles Union Station,591,0,102
+78,439264,591439264,Los Angeles Union Station,591,0,102
+78,439825,595439825,Los Angeles Union Station,595,0,102
+78,439826,595439826,Los Angeles Union Station,595,0,102
+78,439827,595439827,Los Angeles Union Station,595,0,102
+78,439828,595439828,Los Angeles Union Station,595,0,102
+78,439829,595439829,Los Angeles Union Station,595,0,102
+78,439830,595439830,Los Angeles Union Station,595,0,102
+78,439831,595439831,Los Angeles Union Station,595,0,102
+78,439832,595439832,Los Angeles Union Station,595,0,102
+78,439833,595439833,Los Angeles Union Station,595,0,102
+78,439834,595439834,Los Angeles Union Station,595,0,102
+78,439822,597439822,Los Angeles Union Station,597,0,102
+78,439835,599439835,Los Angeles Union Station,599,0,102
+78,441462,761441462,San Luis Obispo Amtrak,761,0,150
+78,441463,761441463,San Luis Obispo Amtrak,761,0,150
+78,441464,761441464,San Luis Obispo Amtrak,761,0,150
+78,441465,761441465,San Luis Obispo Amtrak,761,0,150
+78,441467,761441467,San Luis Obispo Amtrak,761,0,150
+78,441469,761441469,San Luis Obispo Amtrak,761,0,150
+78,437099,763437099,Goleta Amtrak,763,0,149
+78,437100,763437100,Goleta Amtrak,763,0,149
+78,437101,763437101,Goleta Amtrak,763,0,149
+78,437102,763437102,Goleta Amtrak,763,0,149
+78,437103,763437103,Goleta Amtrak,763,0,149
+78,437104,763437104,Goleta Amtrak,763,0,149
+78,437105,763437105,Goleta Amtrak,763,0,149
+78,436504,768436504,San Diego Santa Fe Depot,768,1,151
+78,436505,768436505,San Diego Santa Fe Depot,768,1,151
+78,436506,768436506,San Diego Santa Fe Depot,768,1,151
+78,436507,768436507,San Diego Santa Fe Depot,768,1,151
+78,436508,768436508,San Diego Santa Fe Depot,768,1,151
+78,439267,769439267,Goleta Amtrak,769,0,149
+78,439268,769439268,Goleta Amtrak,769,0,149
+78,439269,769439269,Goleta Amtrak,769,0,149
+78,439270,769439270,Goleta Amtrak,769,0,149
+78,439271,769439271,Goleta Amtrak,769,0,149
+78,439272,769439272,Goleta Amtrak,769,0,149
+78,439273,769439273,Goleta Amtrak,769,0,149
+78,441453,774441453,San Diego Santa Fe Depot,774,1,146
+78,441454,774441454,San Diego Santa Fe Depot,774,1,146
+78,441455,774441455,San Diego Santa Fe Depot,774,1,146
+78,441456,774441456,San Diego Santa Fe Depot,774,1,146
+78,441457,774441457,San Diego Santa Fe Depot,774,1,146
+78,441458,774441458,San Diego Santa Fe Depot,774,1,146
+78,441459,774441459,San Diego Santa Fe Depot,774,1,146
+78,441460,774441460,San Diego Santa Fe Depot,774,1,146
+78,441461,774441461,San Diego Santa Fe Depot,774,1,146
+78,441473,777441473,San Luis Obispo Amtrak,777,0,148
+78,441470,777441470,San Luis Obispo Amtrak,777,0,148
+78,441471,777441471,San Luis Obispo Amtrak,777,0,148
+78,441472,777441472,San Luis Obispo Amtrak,777,0,148
+78,441474,777441474,San Luis Obispo Amtrak,777,0,148
+78,441475,777441475,San Luis Obispo Amtrak,777,0,148
+78,441476,777441476,San Luis Obispo Amtrak,777,0,148
+78,441477,777441477,San Luis Obispo Amtrak,777,0,148
+78,441478,777441478,San Luis Obispo Amtrak,777,0,148
+78,436517,784436517,San Diego Santa Fe Depot,784,1,151
+78,436518,784436518,San Diego Santa Fe Depot,784,1,151
+78,436519,784436519,San Diego Santa Fe Depot,784,1,151
+78,436520,784436520,San Diego Santa Fe Depot,784,1,151
+78,436521,784436521,San Diego Santa Fe Depot,784,1,151
+78,436522,784436522,San Diego Santa Fe Depot,784,1,151
+78,436523,784436523,San Diego Santa Fe Depot,784,1,151
+78,436524,784436524,San Diego Santa Fe Depot,784,1,151
+78,439265,785439265,Goleta Amtrak,785,0,149
+78,439266,785439266,Goleta Amtrak,785,0,149
+78,441479,790441479,San Diego Santa Fe Depot,790,1,146
+78,441480,790441480,San Diego Santa Fe Depot,790,1,146
+78,441481,790441481,San Diego Santa Fe Depot,790,1,146
+78,441482,790441482,San Diego Santa Fe Depot,790,1,146
+78,441484,790441484,San Diego Santa Fe Depot,790,1,146
+78,441486,790441486,San Diego Santa Fe Depot,790,1,146
+78,436525,796436525,San Diego Santa Fe Depot,796,1,151
+78,436526,796436526,San Diego Santa Fe Depot,796,1,151
+78,436527,796436527,San Diego Santa Fe Depot,796,1,151
+78,436528,796436528,San Diego Santa Fe Depot,796,1,151
+78,436529,796436529,San Diego Santa Fe Depot,796,1,151
+78,436530,796436530,San Diego Santa Fe Depot,796,1,151
+78,436531,796436531,San Diego Santa Fe Depot,796,1,151
+78,436532,796436532,San Diego Santa Fe Depot,796,1,151
+69,431421,89431421,Savannah Amtrak,89,1,103
+69,431422,89431422,Savannah Amtrak,89,1,103
+69,431423,89431423,Savannah Amtrak,89,1,103
+69,431424,89431424,Savannah Amtrak,89,1,103
+69,431425,89431425,Savannah Amtrak,89,1,103
+69,431427,89431427,Savannah Amtrak,89,1,103
+69,431428,89431428,Savannah Amtrak,89,1,103
+69,424963,90424963,New York Penn Station,90,0,104
+69,424965,90424965,New York Penn Station,90,0,104
+69,424966,90424966,New York Penn Station,90,0,104
+64,394094,42394094,New York Penn Station,42,1,106
+64,394093,42394093,New York Penn Station,42,1,106
+64,394095,43394095,Pittsburgh Amtrak,43,0,105
+64,394096,43394096,Pittsburgh Amtrak,43,0,105
+55,393768,370393768,Grand Rapids Amtrak,370,1,27
+55,393769,370393769,Grand Rapids Amtrak,370,1,27
+55,393770,371393770,Chicago Union Station,371,0,28
+55,393771,371393771,Chicago Union Station,371,0,28
+79,394955,73394955,Charlotte Amtrak,73,1,108
+79,394956,73394956,Charlotte Amtrak,73,1,108
+79,394957,73394957,Charlotte Amtrak,73,1,108
+79,394950,74394950,Raleigh Amtrak,74,0,107
+79,394952,74394952,Raleigh Amtrak,74,0,107
+79,394953,74394953,Raleigh Amtrak,74,0,107
+79,394954,74394954,Raleigh Amtrak,74,0,107
+79,394958,75394958,Charlotte Amtrak,75,1,108
+79,394959,75394959,Charlotte Amtrak,75,1,108
+79,394960,75394960,Charlotte Amtrak,75,1,108
+79,394962,76394962,Raleigh Amtrak,76,0,107
+79,394961,76394961,Raleigh Amtrak,76,0,107
+79,394963,76394963,Raleigh Amtrak,76,0,107
+63,400536,390400536,Chicago Union Station,390,0,109
+63,400537,390400537,Chicago Union Station,390,0,109
+63,400539,391400539,Carbondale Amtrak,391,1,110
+63,400538,391400538,Carbondale Amtrak,391,1,110
+67,302135,701302135,Sacramento Amtrak,701,0,30
+67,302136,701302136,Sacramento Amtrak,701,0,30
+67,394550,702394550,Bakersfield Amtrak,702,1,32
+67,394551,702394551,Bakersfield Amtrak,702,1,32
+67,394552,702394552,Bakersfield Amtrak,702,1,32
+67,394553,702394553,Bakersfield Amtrak,702,1,32
+67,405906,703405906,Sacramento Amtrak,703,0,30
+67,405907,703405907,Sacramento Amtrak,703,0,30
+67,405908,703405908,Sacramento Amtrak,703,0,30
+67,433993,704433993,Bakersfield Amtrak,704,1,32
+67,433994,704433994,Bakersfield Amtrak,704,1,32
+67,433995,704433995,Bakersfield Amtrak,704,1,32
+67,428851,704428851,Bakersfield Amtrak,704,1,32
+67,430200,711430200,Oakland Jack London Square Station,711,0,29
+67,427532,711427532,Oakland Jack London Square Station,711,0,29
+67,427533,711427533,Oakland Jack London Square Station,711,0,29
+67,427534,711427534,Oakland Jack London Square Station,711,0,29
+67,427530,711427530,Oakland Jack London Square Station,711,0,29
+67,394523,712394523,Bakersfield Amtrak,712,1,31
+67,394524,712394524,Bakersfield Amtrak,712,1,31
+67,394525,712394525,Bakersfield Amtrak,712,1,31
+67,394526,712394526,Bakersfield Amtrak,712,1,31
+67,394527,712394527,Bakersfield Amtrak,712,1,31
+67,427535,713427535,Oakland Jack London Square Station,713,0,29
+67,427536,713427536,Oakland Jack London Square Station,713,0,29
+67,427537,713427537,Oakland Jack London Square Station,713,0,29
+67,427538,713427538,Oakland Jack London Square Station,713,0,29
+67,427539,713427539,Oakland Jack London Square Station,713,0,29
+67,430201,714430201,Bakersfield Amtrak,714,1,31
+67,427541,714427541,Bakersfield Amtrak,714,1,31
+67,427542,714427542,Bakersfield Amtrak,714,1,31
+67,427543,714427543,Bakersfield Amtrak,714,1,31
+67,427544,714427544,Bakersfield Amtrak,714,1,31
+67,394538,715394538,Oakland Jack London Square Station,715,0,29
+67,394539,715394539,Oakland Jack London Square Station,715,0,29
+67,394540,715394540,Oakland Jack London Square Station,715,0,29
+67,394541,715394541,Oakland Jack London Square Station,715,0,29
+67,394542,715394542,Oakland Jack London Square Station,715,0,29
+67,428852,716428852,Bakersfield Amtrak,716,1,31
+67,428853,716428853,Bakersfield Amtrak,716,1,31
+67,428854,716428854,Bakersfield Amtrak,716,1,31
+67,428855,716428855,Bakersfield Amtrak,716,1,31
+67,428856,716428856,Bakersfield Amtrak,716,1,31
+67,428857,716428857,Bakersfield Amtrak,716,1,31
+67,428858,716428858,Bakersfield Amtrak,716,1,31
+67,394543,717394543,Oakland Jack London Square Station,717,0,29
+67,394544,717394544,Oakland Jack London Square Station,717,0,29
+67,394545,717394545,Oakland Jack London Square Station,717,0,29
+67,394546,717394546,Oakland Jack London Square Station,717,0,29
+67,433992,718433992,Bakersfield Amtrak,718,1,31
+67,433990,718433990,Bakersfield Amtrak,718,1,31
+67,433991,718433991,Bakersfield Amtrak,718,1,31
+67,428847,718428847,Bakersfield Amtrak,718,1,31
+57,441422,401441422,New Haven Union Station,401,1,112
+57,441423,401441423,New Haven Union Station,401,1,112
+57,441424,401441424,New Haven Union Station,401,1,112
+57,441427,405441427,New Haven Union Station,405,0,112
+57,441428,405441428,New Haven Union Station,405,0,112
+57,441429,405441429,New Haven Union Station,405,0,112
+57,416285,432416285,Springfield Amtrak,432,0,111
+57,416288,432416288,Springfield Amtrak,432,0,111
+57,416289,432416289,Springfield Amtrak,432,0,111
+57,416291,432416291,Springfield Amtrak,432,0,111
+57,416292,432416292,Springfield Amtrak,432,0,111
+57,441432,450441432,Springfield Amtrak,450,0,111
+57,441433,450441433,Springfield Amtrak,450,0,111
+57,441434,450441434,Springfield Amtrak,450,0,111
+57,441437,460441437,Springfield Amtrak,460,0,111
+57,441438,460441438,Springfield Amtrak,460,0,111
+57,441439,460441439,Springfield Amtrak,460,0,111
+57,416299,463416299,New Haven Union Station,463,1,112
+57,416301,463416301,New Haven Union Station,463,1,112
+57,416302,463416302,New Haven Union Station,463,1,112
+57,416303,463416303,New Haven Union Station,463,1,112
+57,441442,464441442,Springfield Amtrak,464,0,111
+57,441443,464441443,Springfield Amtrak,464,0,111
+57,441444,464441444,Springfield Amtrak,464,0,111
+57,416307,465416307,New Haven Union Station,465,1,112
+57,416310,465416310,New Haven Union Station,465,1,112
+57,416311,465416311,New Haven Union Station,465,1,112
+57,416313,465416313,New Haven Union Station,465,1,112
+57,416314,465416314,New Haven Union Station,465,1,112
+57,415461,467415461,New Haven Union Station,467,1,112
+57,415463,467415463,New Haven Union Station,467,1,112
+57,415464,467415464,New Haven Union Station,467,1,112
+57,415465,467415465,New Haven Union Station,467,1,112
+57,409679,470409679,Springfield Amtrak,470,0,111
+57,409681,470409681,Springfield Amtrak,470,0,111
+57,409683,470409683,Springfield Amtrak,470,0,111
+57,417046,475417046,New Haven Union Station,475,1,112
+57,417048,475417048,New Haven Union Station,475,1,112
+57,415470,475415470,New Haven Union Station,475,1,112
+57,415472,475415472,New Haven Union Station,475,1,112
+57,415473,476415473,Springfield Amtrak,476,0,111
+57,415475,476415475,Springfield Amtrak,476,0,111
+57,415477,476415477,Springfield Amtrak,476,0,111
+57,415479,476415479,Springfield Amtrak,476,0,111
+57,417056,479417056,New Haven Union Station,479,1,112
+57,417058,479417058,New Haven Union Station,479,1,112
+57,415484,479415484,New Haven Union Station,479,1,112
+57,415486,479415486,New Haven Union Station,479,1,112
+57,416315,488416315,Springfield Amtrak,488,0,111
+57,416317,488416317,Springfield Amtrak,488,0,111
+57,416318,488416318,Springfield Amtrak,488,0,111
+57,416319,488416319,Springfield Amtrak,488,0,111
+57,417049,490417049,Springfield Amtrak,490,0,111
+57,417051,490417051,Springfield Amtrak,490,0,111
+57,417053,490417053,Springfield Amtrak,490,0,111
+57,417055,490417055,Springfield Amtrak,490,0,111
+57,409689,493409689,New Haven Union Station,493,1,112
+57,409691,493409691,New Haven Union Station,493,1,112
+57,409693,493409693,New Haven Union Station,493,1,112
+57,415487,494415487,Springfield Amtrak,494,0,111
+57,415489,494415489,Springfield Amtrak,494,0,111
+57,415491,494415491,Springfield Amtrak,494,0,111
+57,415493,494415493,Springfield Amtrak,494,0,111
+57,409694,495409694,New Haven Union Station,495,1,112
+57,409696,495409696,New Haven Union Station,495,1,112
+57,409698,495409698,New Haven Union Station,495,1,112
+57,416320,497416320,New Haven Union Station,497,1,112
+57,416323,497416323,New Haven Union Station,497,1,112
+57,416324,497416324,New Haven Union Station,497,1,112
+57,416326,497416326,New Haven Union Station,497,1,112
+91,434152,97434152,Miami Amtrak,97,1,114
+91,434153,97434153,Miami Amtrak,97,1,114
+91,434154,97434154,Miami Amtrak,97,1,114
+91,434155,97434155,Miami Amtrak,97,1,114
+91,434156,97434156,Miami Amtrak,97,1,114
+91,434157,97434157,Miami Amtrak,97,1,114
+91,434158,97434158,Miami Amtrak,97,1,114
+91,433352,98433352,New York Penn Station,98,0,113
+91,433353,98433353,New York Penn Station,98,0,113
+91,433354,98433354,New York Penn Station,98,0,113
+91,433355,98433355,New York Penn Station,98,0,113
+91,433356,98433356,New York Penn Station,98,0,113
+91,433357,98433357,New York Penn Station,98,0,113
+91,433358,98433358,New York Penn Station,98,0,113
+91,433359,98433359,New York Penn Station,98,0,113
+91,433360,98433360,New York Penn Station,98,0,113
+91,433361,98433361,New York Penn Station,98,0,113
+91,433362,98433362,New York Penn Station,98,0,113
+91,433363,98433363,New York Penn Station,98,0,113
+91,433364,98433364,New York Penn Station,98,0,113
+91,433365,98433365,New York Penn Station,98,0,113
+70,430202,91430202,Miami Amtrak,91,1,116
+70,430203,91430203,Miami Amtrak,91,1,116
+70,430204,91430204,Miami Amtrak,91,1,116
+70,430205,91430205,Miami Amtrak,91,1,116
+70,430206,91430206,Miami Amtrak,91,1,116
+70,430207,91430207,Miami Amtrak,91,1,116
+70,430208,91430208,Miami Amtrak,91,1,116
+70,430209,91430209,Miami Amtrak,91,1,116
+70,430210,91430210,Miami Amtrak,91,1,116
+70,430211,91430211,Miami Amtrak,91,1,116
+70,430212,91430212,Miami Amtrak,91,1,116
+70,425645,92425645,New York Penn Station,92,0,115
+70,425646,92425646,New York Penn Station,92,0,115
+70,425647,92425647,New York Penn Station,92,0,115
+70,425648,92425648,New York Penn Station,92,0,115
+70,425649,92425649,New York Penn Station,92,0,115
+70,425650,92425650,New York Penn Station,92,0,115
+70,425651,92425651,New York Penn Station,92,0,115
+70,425652,92425652,New York Penn Station,92,0,115
+70,425653,92425653,New York Penn Station,92,0,115
+70,425654,92425654,New York Penn Station,92,0,115
+70,425655,92425655,New York Penn Station,92,0,115
+70,425656,92425656,New York Penn Station,92,0,115
+70,425657,92425657,New York Penn Station,92,0,115
+70,425658,92425658,New York Penn Station,92,0,115
+70,425659,92425659,New York Penn Station,92,0,115
+70,425660,92425660,New York Penn Station,92,0,115
+70,425661,92425661,New York Penn Station,92,0,115
+70,425662,92425662,New York Penn Station,92,0,115
+70,425663,92425663,New York Penn Station,92,0,115
+70,425664,92425664,New York Penn Station,92,0,115
+70,425665,92425665,New York Penn Station,92,0,115
+70,425666,92425666,New York Penn Station,92,0,115
+70,425667,92425667,New York Penn Station,92,0,115
+70,425668,92425668,New York Penn Station,92,0,115
+51,407060,3407060,Los Angeles Union Station,3,0,117
+51,407059,3407059,Los Angeles Union Station,3,0,117
+51,407061,3407061,Los Angeles Union Station,3,0,117
+51,407054,4407054,Chicago Union Station,4,1,118
+51,407055,4407055,Chicago Union Station,4,1,118
+51,407056,4407056,Chicago Union Station,4,1,118
+51,407057,4407057,Chicago Union Station,4,1,118
+87,441494,21441494,San Antonio Amtrak,21,1,78
+87,440926,21440926,San Antonio Amtrak,21,1,78
+87,440927,21440927,San Antonio Amtrak,21,1,78
+87,441495,22441495,Chicago Union Station,22,0,81
+87,441496,22441496,Chicago Union Station,22,0,81
+87,440404,321440404,St. Louis Gateway Station,321,1,79
+87,440405,321440405,St. Louis Gateway Station,321,1,79
+87,433286,322433286,Chicago Union Station,322,0,82
+87,433287,322433287,Chicago Union Station,322,0,82
+87,441490,421441490,Los Angeles Union Station,421,0,77
+87,441491,421441491,Los Angeles Union Station,421,0,77
+87,441492,421441492,Los Angeles Union Station,421,0,77
+87,441493,421441493,Los Angeles Union Station,421,0,77
+87,433282,422433282,Chicago Union Station,422,1,80
+87,433283,422433283,Chicago Union Station,422,1,80
+87,412104,422412104,Chicago Union Station,422,1,80
+87,412105,422412105,Chicago Union Station,422,1,80
+90,435978,54435978,St. Albans Amtrak,54,0,35
+90,435979,54435979,St. Albans Amtrak,54,0,35
+90,435980,54435980,St. Albans Amtrak,54,0,35
+90,435981,54435981,St. Albans Amtrak,54,0,35
+90,435965,55435965,Washington Union Station,55,1,34
+90,435966,55435966,Washington Union Station,55,1,34
+90,435967,55435967,Washington Union Station,55,1,34
+90,435968,55435968,Washington Union Station,55,1,34
+90,435969,55435969,Washington Union Station,55,1,34
+90,435971,55435971,Washington Union Station,55,1,34
+90,435972,56435972,St. Albans Amtrak,56,0,35
+90,435973,56435973,St. Albans Amtrak,56,0,35
+90,435974,56435974,St. Albans Amtrak,56,0,35
+90,435975,56435975,St. Albans Amtrak,56,0,35
+90,435977,56435977,St. Albans Amtrak,56,0,35
+90,435982,57435982,Washington Union Station,57,1,34
+90,435983,57435983,Washington Union Station,57,1,34
+90,435984,57435984,Washington Union Station,57,1,34
+90,435985,57435985,Washington Union Station,57,1,34
+80,416459,350416459,Pontiac Amtrak,350,1,52
+80,416460,350416460,Pontiac Amtrak,350,1,52
+80,416463,351416463,Chicago Union Station,351,0,53
+80,416464,351416464,Chicago Union Station,351,0,53
+80,416461,352416461,Pontiac Amtrak,352,1,52
+80,416462,352416462,Pontiac Amtrak,352,1,52
+80,416465,353416465,Chicago Union Station,353,0,53
+80,416466,353416466,Chicago Union Station,353,0,53
+80,416467,354416467,Pontiac Amtrak,354,1,52
+80,416468,354416468,Pontiac Amtrak,354,1,52
+80,416469,355416469,Chicago Union Station,355,0,53
+80,416470,355416470,Chicago Union Station,355,0,53
