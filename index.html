@@ -2,6 +2,8 @@
   <head>
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
     <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.1/underscore-min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
     <script src="js/AnimatedMarker.js"></script>
 
   </head>
@@ -9,22 +11,86 @@
     <div id="map" style="height: 100%;" />
     </body>
   <script>
-    (function() {
-      var trips =[{
-        id: 1,
-        name: 'The train',
-        segments: [{
-          geom: '',
-          startTime: new Date(),
-          endTime: new Date() + 10000,
-        }]
-      }];
+    $.getJSON('js/trips.json', function(data) {
+//       var trips =[{
+//         id: 1,
+//         name: 'The train',
+//         segments: [{
+//           geom: '',
+//           startTime: new Date(),
+//           endTime: new Date() + 10000,
+//         }]
+//       }];
       var map = L.map('map').setView([39.833333, -98.583333], 5);
       L.tileLayer('http://b.tile.stamen.com/toner/{z}/{x}/{y}.png', {
         attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under' +
     ' <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>.' +
     ' Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.'
       }).addTo(map);
-    })();
+
+      var timezoneToOffset = {
+        'America/New York': -5,
+        '': -4,
+        '':-3
+      };
+
+      var startTime = new Date();
+      startTime.setHours(0);
+      startTime.setMinutes(0);
+      startTime.setSeconds(0);
+      var speedRatio = 60;
+
+      function getTimeInterval(dateString) {
+        var hours, minutes, seconds;
+        var groups = /(\d\d?):(\d\d):(\d\d)/.exec(dateString);
+        hours = groups[1];
+        minutes = groups[2];
+        seconds = groups[3];
+        // var offset = timezoneToOffset[dateString.substring()]
+        var date = new Date(startTime.getTime());
+        date.setHours(hours);
+        date.setMinutes(minutes);
+        date.setSeconds(seconds);
+
+        return (date.getTime() - startTime.getTime()) / speedRatio;
+      }
+
+      function makeTrain(trip) {
+        var currentMarker;
+        _.each(trip.segments, function(segment, index) {
+          var line = L.polyline(segment.geom.coordinates);
+          var marker = L.animatedMarker(line.getLatLngs(), {
+            autoStart: false,
+            onEnd: function() {
+              var curMarker = this,
+                timeout;
+
+              // If this is not the last stop, remove the marker at the
+              // same time as when we animate the next segment
+              if (trip.segments.length > index+1) {
+                timeout = getTimeInterval(trip.segments[index + 1]);
+                setTimeout(function() {
+                  $(curMarker._shadow).fadeOut(0);
+                  $(curMarker._icon).fadeOut(0, function(){
+                    map.removeLayer(curMarker);
+                  });
+                },timeout);
+              }
+            }
+          });
+
+          setTimeout(function() {
+            map.addLayer(animatedMarker);
+            marker.start();
+          }, getTimeInterval(segment.startTime));
+
+          setTimeout(function() {
+            marker.stop();
+          }, getTimeInterval(segment.endTime));
+        });
+      }
+
+      _.each(data, makeTrain);
+    });
   </script>
 </html>
