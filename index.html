@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+    <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+    <script src="js/AnimatedMarker.js"></script>
+
+  </head>
+  <body>
+    <div id="map" style="height: 100%;" />
+    </body>
+  <script>
+    (function() {
+      var trips =[{
+        id: 1,
+        name: 'The train',
+        segments: [{
+          geom: '',
+          startTime: new Date(),
+          endTime: new Date() + 10000,
+        }]
+      }];
+      var map = L.map('map').setView([39.833333, -98.583333], 5);
+      L.tileLayer('http://b.tile.stamen.com/toner/{z}/{x}/{y}.png', {
+        attribution: 'I dunno'
+      }).addTo(map);
+    })();
+  </script>
+</html>
