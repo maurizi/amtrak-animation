@@ -15,8 +15,8 @@ psql -h $HOST $DB $USER -f data/amtrak.sql
 Now load up the relevant GTFS tables:
 
 ```
-gunzip data/stops.gz
-gunzip data/stop_times.gz
+gunzip data/stops.txt.gz
+gunzip data/stop_times.txt.gz
 
 # Fix absolute paths
 $EDITOR data/load_stops.sql
